@@ -20,7 +20,7 @@
 | June 14 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | Easy | Solved |
 | June 15 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | Medium | Solved |
 | June 16 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | Solved |
-| June 17 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | Medium | Unsolved |
+| June 17 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | Medium | solved |
 | June 18 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | Medium | Solved |
 | June 19 | [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/) | Hard | Solved |
 | June 20 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | Solved |
