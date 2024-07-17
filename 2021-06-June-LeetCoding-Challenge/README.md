@@ -29,7 +29,7 @@
 | June 23 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | Solved |
 | June 24 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | Medium | Solved |
 | June 25 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | Medium | Solved |
-| June 26 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | Hard | Unsolved |
+| June 26 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | Hard | solved |
 | June 27 | [Candy](https://leetcode.com/problems/candy/) | Hard | Solved |
 | June 28 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | Solved |
 | June 29 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | Solved |
