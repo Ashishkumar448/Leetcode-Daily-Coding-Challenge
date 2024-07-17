@@ -16,7 +16,7 @@
 | June 10 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | Medium | Solved |
 | June 11 | [Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | Medium | Solved |
 | June 12 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | Hard | Solved |
-| June 13 | [Palindrome Problems](https://leetcode.com/problems/palindrome-pairs/) | Hard | Unsolved |
+| June 13 | [Palindrome Problems](https://leetcode.com/problems/palindrome-pairs/) | Hard | solved |
 | June 14 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | Easy | Solved |
 | June 15 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | Medium | Solved |
 | June 16 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | Solved |
