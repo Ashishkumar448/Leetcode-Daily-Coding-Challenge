@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 9 | 9 | 0 |
-| Hard   | 0 | 0 | 0 |
+| Medium | 11 | 11 | 0 |
+| Hard   | 2 | 2 | 0 |
