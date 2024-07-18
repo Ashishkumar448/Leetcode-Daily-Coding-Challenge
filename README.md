@@ -9,7 +9,7 @@
 
 
 <!--Latest!-->
-![GeeksforGeeks-POTD]([https://socialify.git.ci/Ashishkumar448/GFG-Problem-of-the-day/image?forks=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto](https://socialify.git.ci/Ashishkumar448/Leetcode-Daily-Coding-Challenge/image?font=Raleway&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto))
+![Leetcode]([https://socialify.git.ci/Ashishkumar448/GFG-Problem-of-the-day/image?forks=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto](https://socialify.git.ci/Ashishkumar448/Leetcode-Daily-Coding-Challenge/image?font=Raleway&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto))
 
 
 #### If you've got an ingenious solution or any questions, discussions, or insights regarding today's Leetcode daily challenge solution, feel free to join our vibrant [discussion hub](discussions). We eagerly await your input and strive to cultivate an environment where learning flourishes through collaboration. Let's dive in together!
