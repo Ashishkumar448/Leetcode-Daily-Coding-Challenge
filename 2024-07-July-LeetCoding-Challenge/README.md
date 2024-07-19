@@ -20,8 +20,8 @@
 | July 15 | [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | Medium | Solved |
 | July 16 | [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium | Solved |
 | July 17 | [1110. Delete nodes and return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/) | Medium | Solved |
-| July 18 | [1530 . no of good leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | Medium | Solved |
-| July 19 | [Lucky Numbers In A Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | easy | solved |
+| July 18 | [1530. no of good leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | Medium | Solved |
+| July 19 | [1380. Lucky Numbers In A Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | easy | solved |
 | July 20 | []() |  |  |
 | July 21 | []() |  |  |
 | July 22 | []() |  |  |
