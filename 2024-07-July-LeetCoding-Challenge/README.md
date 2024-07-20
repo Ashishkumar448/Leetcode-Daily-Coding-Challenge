@@ -22,7 +22,7 @@
 | July 17 | [1110. Delete nodes and return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/) | Medium | Solved |
 | July 18 | [1530. no of good leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | Medium | Solved |
 | July 19 | [1380. Lucky Numbers In A Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | easy | solved |
-| July 20 | []() |  |  |
+| July 20 | [1605 . Find valid matrix given row and column sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | Medium | Solved |
 | July 21 | []() |  |  |
 | July 22 | []() |  |  |
 | July 23 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 11 | 11 | 0 |
+| Medium | 12 | 12 | 0 |
 | Hard   | 2 | 2 | 0 |
