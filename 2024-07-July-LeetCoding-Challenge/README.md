@@ -23,7 +23,7 @@
 | July 18 | [1530. no of good leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | Medium | Solved |
 | July 19 | [1380. Lucky Numbers In A Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | easy | solved |
 | July 20 | [1605 . Find valid matrix given row and column sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | Medium | Solved |
-| July 21 | []() |  |  |
+| July 21 | [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/) | Hard | Solved |
 | July 22 | []() |  |  |
 | July 23 | []() |  |  |
 | July 24 | []() |  |  |
@@ -41,4 +41,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
 | Medium | 12 | 12 | 0 |
-| Hard   | 2 | 2 | 0 |
+| Hard   | 3 | 3 | 0 |
