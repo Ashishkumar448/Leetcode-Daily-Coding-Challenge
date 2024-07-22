@@ -23,8 +23,8 @@
 | July 18 | [1530. no of good leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | Medium | Solved |
 | July 19 | [1380. Lucky Numbers In A Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | easy | solved |
 | July 20 | [1605 . Find valid matrix given row and column sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | Medium | Solved |
-| July 21 | [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/) | Hard | Solved |
-| July 22 | []() |  |  |
+| July 21 | [2392. Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/) | Hard | Solved |
+| July 22 | [2418. Sort the people](https://leetcode.com/problems/sort-the-people/) | Easy | Solved |
 | July 23 | []() |  |  |
 | July 24 | []() |  |  |
 | July 25 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 6 | 6 | 0 |
+| Easy   | 7 | 7 | 0 |
 | Medium | 12 | 12 | 0 |
 | Hard   | 3 | 3 | 0 |
