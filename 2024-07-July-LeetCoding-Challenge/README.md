@@ -26,7 +26,7 @@
 | July 21 | [2392. Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/) | Hard | Solved |
 | July 22 | [2418. Sort the people](https://leetcode.com/problems/sort-the-people/) | Easy | Solved |
 | July 23 | [1636. Sort Array by Increasing frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | Easy | Solved |
-| July 24 | []() |  |  |
+| July 24 | [2191. Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/) | Medium | Solved |
 | July 25 | []() |  |  |
 | July 26 | []() |  |  |
 | July 27 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 8 | 8 | 0 |
-| Medium | 12 | 12 | 0 |
+| Medium | 13 | 13 | 0 |
 | Hard   | 3 | 3 | 0 |
