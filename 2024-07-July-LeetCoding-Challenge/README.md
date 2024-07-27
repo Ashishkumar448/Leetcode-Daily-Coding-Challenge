@@ -27,7 +27,7 @@
 | July 22 | [2418. Sort the people](https://leetcode.com/problems/sort-the-people/) | Easy | Solved |
 | July 23 | [1636. Sort Array by Increasing frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | Easy | Solved |
 | July 24 | [2191. Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/) | Medium | Solved |
-| July 25 | []() |  |  |
+| July 25 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | Solved |
 | July 26 | [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance.](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | Solved |
 | July 27 | [2976. Minimum cost to convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/) | Medium | Solved |
 | July 28 | []() |  |  |
