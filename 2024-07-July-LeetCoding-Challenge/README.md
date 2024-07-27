@@ -29,7 +29,7 @@
 | July 24 | [2191. Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/) | Medium | Solved |
 | July 25 | []() |  |  |
 | July 26 | []() |  |  |
-| July 27 | []() |  |  |
+| July 27 | [2976. Minimum cost to convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/) | Medium | Solved |
 | July 28 | []() |  |  |
 | July 29 | []() |  |  |
 | July 30 | []() |  |  |
