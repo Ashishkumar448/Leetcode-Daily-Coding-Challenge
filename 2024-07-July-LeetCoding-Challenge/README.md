@@ -30,7 +30,7 @@
 | July 25 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | Solved |
 | July 26 | [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance.](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | Solved |
 | July 27 | [2976. Minimum cost to convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/) | Medium | Solved |
-| July 28 | []() |  |  |
+| July 28 | [2045. Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) | Hard | Solved |
 | July 29 | []() |  |  |
 | July 30 | []() |  |  |
 | July 31 | []() |  |  |
@@ -41,4 +41,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 8 | 8 | 0 |
 | Medium | 16 | 16 | 0 |
-| Hard   | 3 | 3 | 0 |
+| Hard   | 4 | 4 | 0 |
