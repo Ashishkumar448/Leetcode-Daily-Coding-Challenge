@@ -1,4 +1,4 @@
-# July-LeetCoding-Challenge-2024
+# August-LeetCoding-Challenge-2024
 
 ## Questions
 | Day | Problem | Level | Status |
