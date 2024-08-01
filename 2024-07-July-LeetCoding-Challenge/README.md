@@ -32,13 +32,13 @@
 | July 27 | [2976. Minimum cost to convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/) | Medium | Solved |
 | July 28 | [2045. Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) | Hard | Solved |
 | July 29 | [1395. Count the number of Teams](https://leetcode.com/problems/count-number-of-teams/) | Medium | Solved |
-| July 30 | []() |  |  |
-| July 31 | []() |  |  |
+| July 30 | [1653. Minimum Strings to make a String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | Medium | Solved |
+| July 31 | [1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | Medium | Solved |
 
 
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 8 | 8 | 0 |
-| Medium | 17 | 17 | 0 |
+| Medium | 19 | 19 | 0 |
 | Hard   | 4 | 4 | 0 |
