@@ -4,7 +4,7 @@
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | August 1 | [2678. Number of Senior citizens](https://leetcode.com/problems/number-of-senior-citizens/) | Easy | Solved |
-| August 2 | []() |  |  |
+| August 2 | [2134. Minimum swaps to group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | Medium | Solved |
 | August 3 | []() |  |  |
 | August 4 | []() |  |  |
 | August 5 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 01 | 01 | 00 |
-| Medium | 00 | 00 | 00 |
+| Medium | 01 | 01 | 00 |
 | Hard   | 00 | 00 | 00 |
