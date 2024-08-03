@@ -5,7 +5,7 @@
 | --- | --- | --- | --- |
 | August 1 | [2678. Number of Senior citizens](https://leetcode.com/problems/number-of-senior-citizens/) | Easy | Solved |
 | August 2 | [2134. Minimum swaps to group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | Medium | Solved |
-| August 3 | []() |  |  |
+| August 3 | [1460. Make Two arrays Equal By Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | Easy | Solved |
 | August 4 | []() |  |  |
 | August 5 | []() |  |  |
 | August 6 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 01 | 01 | 00 |
+| Easy   | 02 | 02 | 00 |
 | Medium | 01 | 01 | 00 |
 | Hard   | 00 | 00 | 00 |
