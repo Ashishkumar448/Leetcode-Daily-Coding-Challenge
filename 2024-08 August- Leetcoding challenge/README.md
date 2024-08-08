@@ -10,7 +10,7 @@
 | August 5 | [2053. Kth Distinct String in An Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | Easy | Solved |
 | August 6 | [3016. Minimum Number of Pushes to type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Medium | Solved |
 | August 7 | [273. Innteger To English Words](https://leetcode.com/problems/integer-to-english-words/) | Hard | Solved |
-| August 8 | []() |  |  |
+| August 8 | [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) | Medium | Solved |
 | August 9 | []() |  |  |
 | August 10 | []() |  |  |
 | August 11 | []() |  |  |
