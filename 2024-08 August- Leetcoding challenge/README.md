@@ -11,7 +11,7 @@
 | August 6 | [3016. Minimum Number of Pushes to type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Medium | Solved |
 | August 7 | [273. Innteger To English Words](https://leetcode.com/problems/integer-to-english-words/) | Hard | Solved |
 | August 8 | [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) | Medium | Solved |
-| August 9 | []() |  |  |
+| August 9 | [840. Magic Squares in Grid](https://leetcode.com/problems/magic-squares-in-grid/) | Medium | Solved |
 | August 10 | []() |  |  |
 | August 11 | []() |  |  |
 | August 12 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 03 | 03 | 00 |
-| Medium | 03 | 03 | 00 |
+| Medium | 05 | 05 | 00 |
 | Hard   | 01 | 01 | 01 |
