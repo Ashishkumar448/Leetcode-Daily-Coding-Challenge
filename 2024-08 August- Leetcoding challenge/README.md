@@ -12,7 +12,7 @@
 | August 7 | [273. Innteger To English Words](https://leetcode.com/problems/integer-to-english-words/) | Hard | Solved |
 | August 8 | [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) | Medium | Solved |
 | August 9 | [840. Magic Squares in Grid](https://leetcode.com/problems/magic-squares-in-grid/) | Medium | Solved |
-| August 10 | []() |  |  |
+| August 10 | [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) | Medium | Solved |
 | August 11 | []() |  |  |
 | August 12 | []() |  |  |
 | August 13 | []() |  |  |   
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 03 | 03 | 00 |
-| Medium | 05 | 05 | 00 |
+| Medium | 06 | 06 | 00 |
 | Hard   | 01 | 01 | 01 |
