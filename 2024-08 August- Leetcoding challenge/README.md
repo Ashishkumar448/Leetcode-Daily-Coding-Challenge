@@ -13,7 +13,7 @@
 | August 8 | [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) | Medium | Solved |
 | August 9 | [840. Magic Squares in Grid](https://leetcode.com/problems/magic-squares-in-grid/) | Medium | Solved |
 | August 10 | [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) | Medium | Solved |
-| August 11 | []() |  |  |
+| August 11 | [1568. Minimum No. of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) | Hard | Solved |
 | August 12 | []() |  |  |
 | August 13 | []() |  |  |   
 | August 14 | []() |  |  |
@@ -41,4 +41,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 03 | 03 | 00 |
 | Medium | 06 | 06 | 00 |
-| Hard   | 01 | 01 | 01 |
+| Hard   | 02 | 02 | 00 |
