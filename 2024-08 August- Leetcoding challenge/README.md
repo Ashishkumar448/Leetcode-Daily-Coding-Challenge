@@ -14,7 +14,7 @@
 | August 9 | [840. Magic Squares in Grid](https://leetcode.com/problems/magic-squares-in-grid/) | Medium | Solved |
 | August 10 | [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) | Medium | Solved |
 | August 11 | [1568. Minimum No. of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) | Hard | Solved |
-| August 12 | []() |  |  |
+| August 12 | [703. Kth Largest Element In a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) |  |  |
 | August 13 | []() |  |  |   
 | August 14 | []() |  |  |
 | August 15 | []() |  |  |
