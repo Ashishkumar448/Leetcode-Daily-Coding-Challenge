@@ -15,7 +15,7 @@
 | August 10 | [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) | Medium | Solved |
 | August 11 | [1568. Minimum No. of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) | Hard | Solved |
 | August 12 | [703. Kth Largest Element In a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) |  |  |
-| August 13 | []() |  |  |   
+| August 13 | [40. Combination Sum II](leetcode.com/problems/combination-sum-ii/) | Medium | Solved |   
 | August 14 | []() |  |  |
 | August 15 | []() |  |  |
 | August 16 | []() |  |  |
