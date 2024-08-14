@@ -16,7 +16,7 @@
 | August 11 | [1568. Minimum No. of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) | Hard | Solved |
 | August 12 | [703. Kth Largest Element In a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | Solved |
 | August 13 | [40. Combination Sum II](leetcode.com/problems/combination-sum-ii/) | Medium | Solved |   
-| August 14 | []() |  |  |
+| August 14 | [719. Find K-th Smallest Pair Distance ]() | Hard | Solved |
 | August 15 | []() |  |  |
 | August 16 | []() |  |  |
 | August 17 | []() |  |  |
@@ -41,4 +41,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 04 | 04 | 00 |
 | Medium | 07 | 07 | 00 |
-| Hard   | 02 | 02 | 00 |
+| Hard   | 03 | 03 | 00 |
