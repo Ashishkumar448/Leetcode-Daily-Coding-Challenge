@@ -18,7 +18,7 @@
 | August 13 | [40. Combination Sum II](leetcode.com/problems/combination-sum-ii/) | Medium | Solved |   
 | August 14 | [719. Find K-th Smallest Pair Distance ]() | Hard | Solved |
 | August 15 | [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy | Solved |
-| August 16 | []() |  |  |
+| August 16 | [624. Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) | Medium | Solved |
 | August 17 | []() |  |  |
 | August 18 | []() |  |  |
 | August 19 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 04 | 04 | 00 |
-| Medium | 07 | 07 | 00 |
+| Easy   | 05 | 05 | 00 |
+| Medium | 08 | 08 | 00 |
 | Hard   | 03 | 03 | 00 |
