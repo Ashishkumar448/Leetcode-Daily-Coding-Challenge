@@ -19,7 +19,7 @@
 | August 14 | [719. Find K-th Smallest Pair Distance ]() | Hard | Solved |
 | August 15 | [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy | Solved |
 | August 16 | [624. Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) | Medium | Solved |
-| August 17 | []() |  |  |
+| August 17 | [1937. Maximun Number of Points With Cosst](https://leetcode.com/problems/maximum-number-of-points-with-cost/) | Medium | Solved |
 | August 18 | []() |  |  |
 | August 19 | []() |  |  |
 | August 20 | []() |  |  |
