@@ -21,7 +21,7 @@
 | August 16 | [624. Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) | Medium | Solved |
 | August 17 | [1937. Maximun Number of Points With Cosst](https://leetcode.com/problems/maximum-number-of-points-with-cost/) | Medium | Solved |
 | August 18 | [264. Ugly number II](https://leetcode.com/problems/ugly-number-ii/) | Medium | Solved |
-| August 19 | []() |  |  |
+| August 19 | [650. 2 Keys Keyoard](https://leetcode.com/problems/2-keys-keyboard/description/) | Medium | Solved |
 | August 20 | []() |  |  |
 | August 21 | []() |  |  |
 | August 22 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 05 | 05 | 00 |
-| Medium | 08 | 08 | 00 |
+| Medium | 09 | 09 | 00 |
 | Hard   | 03 | 03 | 00 |
