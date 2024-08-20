@@ -22,7 +22,7 @@
 | August 17 | [1937. Maximun Number of Points With Cosst](https://leetcode.com/problems/maximum-number-of-points-with-cost/) | Medium | Solved |
 | August 18 | [264. Ugly number II](https://leetcode.com/problems/ugly-number-ii/) | Medium | Solved |
 | August 19 | [650. 2 Keys Keyoard](https://leetcode.com/problems/2-keys-keyboard/description/) | Medium | Solved |
-| August 20 | []() |  |  |
+| August 20 | [1140. Stoe Game II](https://leetcode.com/problems/stone-game-ii/description/) | Medium | Solved |
 | August 21 | []() |  |  |
 | August 22 | []() |  |  |
 | August 23 | []() |  |  |
