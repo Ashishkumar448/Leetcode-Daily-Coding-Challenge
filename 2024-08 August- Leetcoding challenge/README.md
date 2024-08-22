@@ -24,7 +24,7 @@
 | August 19 | [650. 2 Keys Keyoard](https://leetcode.com/problems/2-keys-keyboard/description/) | Medium | Solved |
 | August 20 | [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/description/) | Medium | Solved |
 | August 21 | [664. Strange Printer](https://leetcode.com/problems/strange-printer/) | Hard | Solved |
-| August 22 | []() |  |  |
+| August 22 | [476. Number Complement](https://leetcode.com/problems/number-complement/description/) | Easy | Solved |
 | August 23 | []() |  |  |
 | August 24 | []() |  |  |
 | August 25 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 05 | 05 | 00 |
-| Medium | 09 | 09 | 00 |
-| Hard   | 03 | 03 | 00 |
+| Easy   | 06 | 06 | 00 |
+| Medium | 12 | 12 | 00 |
+| Hard   | 04 | 04 | 00 |
