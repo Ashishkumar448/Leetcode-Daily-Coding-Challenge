@@ -25,7 +25,7 @@
 | August 20 | [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/description/) | Medium | Solved |
 | August 21 | [664. Strange Printer](https://leetcode.com/problems/strange-printer/) | Hard | Solved |
 | August 22 | [476. Number Complement](https://leetcode.com/problems/number-complement/description/) | Easy | Solved |
-| August 23 | []() |  |  |
+| August 23 | [592. Fraction Addition And Subtraction]() | Medium | Solved |
 | August 24 | []() |  |  |
 | August 25 | []() |  |  |
 | August 26 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 06 | 06 | 00 |
-| Medium | 12 | 12 | 00 |
+| Medium | 13 | 13 | 00 |
 | Hard   | 04 | 04 | 00 |
