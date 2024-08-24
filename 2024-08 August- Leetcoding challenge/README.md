@@ -26,7 +26,7 @@
 | August 21 | [664. Strange Printer](https://leetcode.com/problems/strange-printer/) | Hard | Solved |
 | August 22 | [476. Number Complement](https://leetcode.com/problems/number-complement/description/) | Easy | Solved |
 | August 23 | [592. Fraction Addition And Subtraction]() | Medium | Solved |
-| August 24 | []() |  |  |
+| August 24 | [564. Find the closest palindrome](https://leetcode.com/problems/find-the-closest-palindrome/) | Hard | Solved |
 | August 25 | []() |  |  |
 | August 26 | []() |  |  |
 | August 27 | []() |  |  |
@@ -41,4 +41,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 06 | 06 | 00 |
 | Medium | 13 | 13 | 00 |
-| Hard   | 04 | 04 | 00 |
+| Hard   | 05| 05 | 00 |
