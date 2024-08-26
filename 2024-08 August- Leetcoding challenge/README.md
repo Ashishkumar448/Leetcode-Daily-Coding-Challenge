@@ -28,7 +28,7 @@
 | August 23 | [592. Fraction Addition And Subtraction]() | Medium | Solved |
 | August 24 | [564. Find the closest palindrome](https://leetcode.com/problems/find-the-closest-palindrome/) | Hard | Solved |
 | August 25 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | Easy | Solved |
-| August 26 | []() |  |  |
+| August 26 | [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/) | Easy | Solved |
 | August 27 | []() |  |  |
 | August 28 | []() |  |  |
 | August 29 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 07 | 07 | 00 |
+| Easy   | 08 | 08 | 00 |
 | Medium | 13 | 13 | 00 |
 | Hard   | 05| 05 | 00 |
