@@ -29,7 +29,7 @@
 | August 24 | [564. Find the closest palindrome](https://leetcode.com/problems/find-the-closest-palindrome/) | Hard | Solved |
 | August 25 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | Easy | Solved |
 | August 26 | [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/) | Easy | Solved |
-| August 27 | []() |  |  |
+| August 27 | [1514. Path With Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/) |  |  |
 | August 28 | []() |  |  |
 | August 29 | []() |  |  |
 | August 30 | []() |  |  |
