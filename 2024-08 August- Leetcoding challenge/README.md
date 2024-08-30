@@ -32,7 +32,7 @@
 | August 27 | [1514. Path With Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/) |  |  |
 | August 28 | [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/description/) | Medium | Solved |
 | August 29 | [947. Most Stones Removed With Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/) | Medium | Solved |
-| August 30 | []() |  |  |
+| August 30 | [2699. Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/description/) | Hard | Solved |
 | August 31 | []() |  |  |
 
 
