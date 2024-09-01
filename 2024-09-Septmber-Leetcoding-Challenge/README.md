@@ -3,8 +3,8 @@
 ## Questions
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
+| Septmber 1 | [2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/description/) | Easy | Solved |
 | Septmber 2 | []() |  |  |
-| Septmber 1 | []() |  |  |
 | Septmber 3 | []() |  |  |
 | Septmber 4 | []() |  |  |
 | Septmber 5 | []() |  |  |
