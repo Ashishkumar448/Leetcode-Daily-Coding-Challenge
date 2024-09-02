@@ -4,7 +4,7 @@
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | Septmber 1 | [2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/description/) | Easy | Solved |
-| Septmber 2 | []() |  |  |
+| Septmber 2 | [1894. Fid the student that will replace the chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | Medium | Solved |
 | Septmber 3 | []() |  |  |
 | Septmber 4 | []() |  |  |
 | Septmber 5 | []() |  |  |
