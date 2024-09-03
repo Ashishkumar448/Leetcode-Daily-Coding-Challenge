@@ -5,7 +5,7 @@
 | --- | --- | --- | --- |
 | Septmber 1 | [2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/description/) | Easy | Solved |
 | Septmber 2 | [1894. Fid the student that will replace the chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | Medium | Solved |
-| Septmber 3 | []() |  |  |
+| Septmber 3 | [1945. Sum of Digits Of Strig After Covert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | Easy | Solved |
 | Septmber 4 | []() |  |  |
 | Septmber 5 | []() |  |  |
 | Septmber 6 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 00 | 00 | 00 |
-| Medium | 00 | 00 | 00 |
+| Easy   | 02 | 02 | 00 |
+| Medium | 01 | 01 | 00 |
 | Hard   | 00 | 00 | 00 |
