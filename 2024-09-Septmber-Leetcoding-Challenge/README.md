@@ -6,7 +6,7 @@
 | Septmber 1 | [2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/description/) | Easy | Solved |
 | Septmber 2 | [1894. Fid the student that will replace the chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | Medium | Solved |
 | Septmber 3 | [1945. Sum of Digits Of Strig After Covert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | Easy | Solved |
-| Septmber 4 | []() |  |  |
+| Septmber 4 | [874. Walking robot simulation](https://leetcode.com/problems/walking-robot-simulation/) | Medium | Solved |
 | Septmber 5 | []() |  |  |
 | Septmber 6 | []() |  |  |
 | Septmber 7 | []() |  |  |
