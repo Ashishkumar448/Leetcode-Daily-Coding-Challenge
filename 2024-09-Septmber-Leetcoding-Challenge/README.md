@@ -7,7 +7,7 @@
 | Septmber 2 | [1894. Fid the student that will replace the chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | Medium | Solved |
 | Septmber 3 | [1945. Sum of Digits Of Strig After Covert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | Easy | Solved |
 | Septmber 4 | [874. Walking robot simulation](https://leetcode.com/problems/walking-robot-simulation/) | Medium | Solved |
-| Septmber 5 | []() |  |  |
+| Septmber 5 | [2028. FidMissing Observations](https://leetcode.com/problems/find-missing-observations/) | Medium | Solved |
 | Septmber 6 | []() |  |  |
 | Septmber 7 | []() |  |  |
 | Septmber 8 | []() |  |  |
