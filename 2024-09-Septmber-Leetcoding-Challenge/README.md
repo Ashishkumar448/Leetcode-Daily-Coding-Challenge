@@ -1,4 +1,4 @@
-# July-LeetCoding-Challenge-2024
+# September-LeetCoding-Challenge-2024
 
 ## Questions
 | Day | Problem | Level | Status |
@@ -9,7 +9,7 @@
 | Septmber 4 | [874. Walking robot simulation](https://leetcode.com/problems/walking-robot-simulation/) | Medium | Solved |
 | Septmber 5 | [2028. FidMissing Observations](https://leetcode.com/problems/find-missing-observations/) | Medium | Solved |
 | Septmber 6 | [3217. Delete Node From linked list Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/) | Medium | Solved |
-| Septmber 7 | []() |  |  |
+| Septmber 7 | [1367. Linkedlist in binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/description/) | Medium | Solved |
 | Septmber 8 | []() |  |  |
 | Septmber 9 | []() |  |  |
 | Septmber 10 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 04 | 04 | 00 |
+| Medium | 05 | 05 | 00 |
 | Hard   | 00 | 00 | 00 |
