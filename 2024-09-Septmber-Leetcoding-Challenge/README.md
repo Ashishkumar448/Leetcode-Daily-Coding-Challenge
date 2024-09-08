@@ -10,7 +10,7 @@
 | Septmber 5 | [2028. FidMissing Observations](https://leetcode.com/problems/find-missing-observations/) | Medium | Solved |
 | Septmber 6 | [3217. Delete Node From linked list Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/) | Medium | Solved |
 | Septmber 7 | [1367. Linkedlist in binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/description/) | Medium | Solved |
-| Septmber 8 | []() |  |  |
+| Septmber 8 | [725. Split LinkedList in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium | Solved |
 | Septmber 9 | []() |  |  |
 | Septmber 10 | []() |  |  |
 | Septmber 11 | []() |  |  |
