@@ -11,7 +11,7 @@
 | Septmber 6 | [3217. Delete Node From linked list Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/) | Medium | Solved |
 | Septmber 7 | [1367. Linkedlist in binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/description/) | Medium | Solved |
 | Septmber 8 | [725. Split LinkedList in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium | Solved |
-| Septmber 9 | []() |  |  |
+| Septmber 9 | [2326. Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/description/) | Medium | Solved |
 | Septmber 10 | []() |  |  |
 | Septmber 11 | []() |  |  |
 | Septmber 12 | []() |  |  |
