@@ -13,7 +13,7 @@
 | Septmber 8 | [725. Split LinkedList in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium | Solved |
 | Septmber 9 | [2326. Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/description/) | Medium | Solved |
 | Septmber 10 | [2807. Insert Greatest Common Divisior in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | Medium | Solved |
-| Septmber 11 | []() |  |  |
+| Septmber 11 | [2220. Minimum Bit Flip To Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | Easy | Solved |
 | Septmber 12 | []() |  |  |
 | Septmber 13 | []() |  |  |   
 | Septmber 14 | []() |  |  |
