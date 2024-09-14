@@ -15,8 +15,8 @@
 | Septmber 10 | [2807. Insert Greatest Common Divisior in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | Medium | Solved |
 | Septmber 11 | [2220. Minimum Bit Flip To Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | Easy | Solved |
 | Septmber 12 | [1684. Count The Number Of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | Easy | Solved |
-| Septmber 13 | []() |  |  |   
-| Septmber 14 | []() |  |  |
+| Septmber 13 | [1310. XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/) | Medium | Solved |   
+| Septmber 14 | [2419. LongestSubarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | Medium | Solved |
 | Septmber 15 | []() |  |  |
 | Septmber 16 | []() |  |  |
 | Septmber 17 | []() |  |  |
