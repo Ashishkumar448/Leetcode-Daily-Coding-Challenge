@@ -17,7 +17,8 @@
 | Septmber 12 | [1684. Count The Number Of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | Easy | Solved |
 | Septmber 13 | [1310. XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/) | Medium | Solved |   
 | Septmber 14 | [2419. LongestSubarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | Medium | Solved |
-| Septmber 15 | []() |  |  |
+| Septmber 15 | [1371. Fid The 
+longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | Medium | Solved |
 | Septmber 16 | []() |  |  |
 | Septmber 17 | []() |  |  |
 | Septmber 18 | []() |  |  |
@@ -38,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 02 | 02 | 00 |
-| Medium | 05 | 05 | 00 |
+| Easy   | 04 | 04 | 00 |
+| Medium | 11 | 11 | 00 |
 | Hard   | 00 | 00 | 00 |
