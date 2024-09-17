@@ -19,7 +19,7 @@
 | Septmber 14 | [2419. LongestSubarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | Medium | Solved |
 | Septmber 15 | [1371. Fid The longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | Medium | Solved |
 | Septmber 16 | [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/) | Medium | Solved |
-| Septmber 17 | []() |  |  |
+| Septmber 17 | [884. Uncommom Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Easy | Solved |
 | Septmber 18 | []() |  |  |
 | Septmber 19 | []() |  |  |
 | Septmber 20 | []() |  |  |
