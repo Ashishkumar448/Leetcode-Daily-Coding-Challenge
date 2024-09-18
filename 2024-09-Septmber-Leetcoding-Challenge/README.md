@@ -20,7 +20,7 @@
 | Septmber 15 | [1371. Fid The longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | Medium | Solved |
 | Septmber 16 | [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/) | Medium | Solved |
 | Septmber 17 | [884. Uncommom Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Easy | Solved |
-| Septmber 18 | []() |  |  |
+| Septmber 18 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | Easy | Solved |
 | Septmber 19 | []() |  |  |
 | Septmber 20 | []() |  |  |
 | Septmber 21 | []() |  |  |
