@@ -24,7 +24,7 @@
 | Septmber 19 | []() |  |  |
 | Septmber 20 | []() |  |  |
 | Septmber 21 | []() |  |  |
-| Septmber 22 | []() |  |  |
+| Septmber 22 | [K-th smallest in lexographical order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | Hard | Solved |
 | Septmber 23 | [2707. Extra characters in a string](https://leetcode.com/problems/extra-characters-in-a-string/) | Medium | Solved |
 | Septmber 24 | []() |  |  |
 | Septmber 25 | []() |  |  |
