@@ -1,4 +1,4 @@
-# September-LeetCoding-Challenge-2024
+![image](https://github.com/user-attachments/assets/8e42b236-654a-4c9e-a667-19c9432cddf7)# September-LeetCoding-Challenge-2024
 
 ## Questions
 | Day | Problem | Level | Status |
@@ -23,7 +23,7 @@
 | Septmber 18 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | Easy | Solved |
 | Septmber 19 | []() |  |  |
 | Septmber 20 | []() |  |  |
-| Septmber 21 | []() |  |  |
+| Septmber 21 | [386. Lexographical numbers](https://leetcode.com/problems/lexicographical-numbers/) | Medium | Solved |
 | Septmber 22 | [K-th smallest in lexographical order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | Hard | Solved |
 | Septmber 23 | [2707. Extra characters in a string](https://leetcode.com/problems/extra-characters-in-a-string/) | Medium | Solved |
 | Septmber 24 | []() |  |  |
