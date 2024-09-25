@@ -21,8 +21,8 @@
 | Septmber 16 | [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/) | Medium | Solved |
 | Septmber 17 | [884. Uncommom Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Easy | Solved |
 | Septmber 18 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | Easy | Solved |
-| Septmber 19 | []() |  |  |
-| Septmber 20 | []() |  |  |
+| Septmber 19 | [241. Different ways to add parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | Medium | Solved |
+| Septmber 20 | [214. Shortest palindrome](https://leetcode.com/problems/shortest-palindrome/) | Hard | Solved |
 | Septmber 21 | [386. Lexicographical numbers](https://leetcode.com/problems/lexicographical-numbers/) | Medium | Solved |
 | Septmber 22 | [K-th smallest in lexographical order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | Hard | Solved |
 | Septmber 23 | [2707. Extra characters in a string](https://leetcode.com/problems/extra-characters-in-a-string/) | Medium | Solved |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 05 | 05 | 00 |
-| Medium | 12 | 12 | 00 |
-| Hard   | 00 | 00 | 00 |
+| Easy   | 06 | 06 | 00 |
+| Medium | 16 | 16 | 00 |
+| Hard   | 03 | 03 | 00 |
