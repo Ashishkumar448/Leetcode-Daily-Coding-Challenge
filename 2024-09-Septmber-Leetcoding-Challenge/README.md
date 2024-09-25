@@ -26,8 +26,8 @@
 | Septmber 21 | [386. Lexicographical numbers](https://leetcode.com/problems/lexicographical-numbers/) | Medium | Solved |
 | Septmber 22 | [K-th smallest in lexographical order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | Hard | Solved |
 | Septmber 23 | [2707. Extra characters in a string](https://leetcode.com/problems/extra-characters-in-a-string/) | Medium | Solved |
-| Septmber 24 | []() |  |  |
-| Septmber 25 | []() |  |  |
+| Septmber 24 | [3043. Find the length of the longest common prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | Medium | Solved |
+| Septmber 25 | [2416. Sum of prefix scores of strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | Hard | Solved |
 | Septmber 26 | []() |  |  |
 | Septmber 27 | []() |  |  |
 | Septmber 28 | []() |  |  |
