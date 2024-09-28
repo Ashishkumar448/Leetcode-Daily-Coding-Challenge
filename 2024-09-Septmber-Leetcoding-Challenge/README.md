@@ -28,9 +28,9 @@
 | Septmber 23 | [2707. Extra characters in a string](https://leetcode.com/problems/extra-characters-in-a-string/) | Medium | Solved |
 | Septmber 24 | [3043. Find the length of the longest common prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | Medium | Solved |
 | Septmber 25 | [2416. Sum of prefix scores of strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | Hard | Solved |
-| Septmber 26 | []() |  |  |
-| Septmber 27 | []() |  |  |
-| Septmber 28 | []() |  |  |
+| Septmber 26 | [729. My calender I](https://leetcode.com/problems/my-calendar-i/) | Medium | Solved |
+| Septmber 27 | [731. My calender II](https://leetcode.com/problems/my-calendar-ii/) | Medium | Solved |
+| Septmber 28 | [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | Medium | Solved |
 | Septmber 29 | []() |  |  |
 | Septmber 30 | []() |  |  |
 
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 06 | 06 | 00 |
-| Medium | 16 | 16 | 00 |
+| Medium | 19 | 19 | 00 |
 | Hard   | 03 | 03 | 00 |
