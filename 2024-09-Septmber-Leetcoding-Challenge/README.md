@@ -31,13 +31,13 @@
 | Septmber 26 | [729. My calender I](https://leetcode.com/problems/my-calendar-i/) | Medium | Solved |
 | Septmber 27 | [731. My calender II](https://leetcode.com/problems/my-calendar-ii/) | Medium | Solved |
 | Septmber 28 | [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | Medium | Solved |
-| Septmber 29 | []() |  |  |
-| Septmber 30 | []() |  |  |
+| Septmber 29 | [432. All O'one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/) | Hard | Solved |
+| Septmber 30 | [1381. Design a Stack With Increment Opeartion](https://leetcode.com/problems/design-a-stack-with-increment-operation/description/) | Medium | Solved |
 
 
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 06 | 06 | 00 |
-| Medium | 19 | 19 | 00 |
-| Hard   | 03 | 03 | 00 |
+| Medium | 20 | 20 | 00 |
+| Hard   | 04 | 04 | 00 |
