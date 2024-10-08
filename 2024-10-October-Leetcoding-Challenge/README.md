@@ -9,8 +9,8 @@
 | October 4 | [2491. Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | Medium | Solved |
 | October 5 | [567. Permutation in string](https://leetcode.com/problems/permutation-in-string/description/) | Medium | Solved |
 | October 6 | [1813. Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/description/) | Medium | Solved |
-| October 7 | []() |  |  |
-| October 8 | []() |  |  |
+| October 7 | [2696. Miimum String Length After removing Substring](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/?envType=daily-question&envId=2024-10-07) | Easy | Solved |
+| October 8 | [1963. Minimum number of Swaps to Make String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | Medium | Solved |
 | October 9 | []() |  |  |
 | October 10 | []() |  |  |
 | October 11 | []() |  |  |
@@ -42,6 +42,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 01 | 01 | 00 |
-| Medium | 05 | 05 | 00 |
+| Easy   | 02 | 02 | 00 |
+| Medium | 06 | 06 | 00 |
 | Hard   | 00 | 00 | 00 |
