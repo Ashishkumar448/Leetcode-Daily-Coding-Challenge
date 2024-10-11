@@ -12,8 +12,8 @@
 | October 7 | [2696. Miimum String Length After removing Substring](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/?envType=daily-question&envId=2024-10-07) | Easy | Solved |
 | October 8 | [1963. Minimum number of Swaps to Make String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | Medium | Solved |
 | October 9 | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | Solved |
-| October 10 | []() |  |  |
-| October 11 | []() |  |  |
+| October 10 | [962. Maximum Width  Ramp](https://leetcode.com/problems/maximum-width-ramp/) | Medium | Solved |
+| October 11 | [1942. The Number Of the Smallest Uncopied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | Medium | Solved |
 | October 12 | []() |  |  |
 | October 13 | []() |  |  |
 | October 14 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 07 | 07 | 00 |
+| Medium | 09 | 09 | 00 |
 | Hard   | 00 | 00 | 00 |
