@@ -15,7 +15,7 @@
 | October 10 | [962. Maximum Width  Ramp](https://leetcode.com/problems/maximum-width-ramp/) | Medium | Solved |
 | October 11 | [1942. The Number Of the Smallest Uncopied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | Medium | Solved |
 | October 12 | [2406. Divide Intervals Into Minimum NO. of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/) | Medium | Solved |
-| October 13 | []() |  |  |
+| October 13 | [632. Smallest Range Covering elements From K-lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | Hard | Solved |
 | October 14 | []() |  |  |
 | October 15 | []() |  |  |
 | October 16 | []() |  |  |
