@@ -16,7 +16,7 @@
 | October 11 | [1942. The Number Of the Smallest Uncopied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | Medium | Solved |
 | October 12 | [2406. Divide Intervals Into Minimum NO. of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/) | Medium | Solved |
 | October 13 | [632. Smallest Range Covering elements From K-lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | Hard | Solved |
-| October 14 | []() |  |  |
+| October 14 | [2530. Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | Medium | Solved |
 | October 15 | []() |  |  |
 | October 16 | []() |  |  |
 | October 17 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 09 | 09 | 00 |
-| Hard   | 00 | 00 | 00 |
+| Medium | 11 | 11 | 00 |
+| Hard   | 01 | 01 | 00 |
