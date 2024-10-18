@@ -18,9 +18,9 @@
 | October 13 | [632. Smallest Range Covering elements From K-lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | Hard | Solved |
 | October 14 | [2530. Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | Medium | Solved |
 | October 15 | [2938. Separate Black And White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | Medium | Solved |
-| October 16 | []() |  |  |
-| October 17 | []() |  |  |
-| October 18 | []() |  |  |
+| October 16 | [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | Medium | Solved |
+| October 17 | [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/description/) | Medium | Solved |
+| October 18 | [2044. Count Number of Maximum Bitwise Or Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | Medium | Solved |
 | October 19 | []() |  |  |
 | October 20 | []() |  |  |
 | October 21 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 12 | 12 | 00 |
+| Medium | 15 | 15 | 00 |
 | Hard   | 01 | 01 | 00 |
