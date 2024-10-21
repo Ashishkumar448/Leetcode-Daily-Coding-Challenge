@@ -23,7 +23,7 @@
 | October 18 | [2044. Count Number of Maximum Bitwise Or Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | Medium | Solved |
 | October 19 | [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/) | Medium | Solved |
 | October 20 | [1106. Parsing A boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | Hard | Solved |
-| October 21 | []() |  |  |
+| October 21 | [1593. Split a String Into The Max Number of Unique Substring](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | Medium | Solved |
 | October 22 | []() |  |  |
 | October 23 | []() |  |  |
 | October 24 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 16 | 16 | 00 |
+| Medium | 17 | 17 | 00 |
 | Hard   | 02 | 02 | 00 |
