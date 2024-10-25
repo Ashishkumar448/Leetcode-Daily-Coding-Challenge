@@ -27,7 +27,7 @@
 | October 22 | [2583. Kth Largest Sum In a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | Medium | Solved |
 | October 23 | [2641. Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | Medium | Solved |
 | October 24 | [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | Medium | Solved |
-| October 25 | []() |  |  |
+| October 25 | [1233. Remove Subfolders From The File System](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) |  |  |
 | October 26 | []() |  |  |
 | October 27 | []() |  |  |
 | October 28 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 20 | 20 | 00 |
+| Medium | 21 | 21 | 00 |
 | Hard   | 02 | 02 | 00 |
