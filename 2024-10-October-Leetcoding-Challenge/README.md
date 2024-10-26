@@ -28,7 +28,7 @@
 | October 23 | [2641. Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | Medium | Solved |
 | October 24 | [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | Medium | Solved |
 | October 25 | [1233. Remove Subfolders From The File System](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) |  |  |
-| October 26 | []() |  |  |
+| October 26 | [2458. Height of  Binary Tree After SubTree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | Hard | Solved |
 | October 27 | []() |  |  |
 | October 28 | []() |  |  |
 | October 29 | []() |  |  |
@@ -44,4 +44,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 02 | 02 | 00 |
 | Medium | 21 | 21 | 00 |
-| Hard   | 02 | 02 | 00 |
+| Hard   | 03 | 03 | 00 |
