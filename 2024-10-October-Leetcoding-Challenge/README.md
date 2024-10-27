@@ -29,7 +29,7 @@
 | October 24 | [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | Medium | Solved |
 | October 25 | [1233. Remove Subfolders From The File System](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) |  |  |
 | October 26 | [2458. Height of  Binary Tree After SubTree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | Hard | Solved |
-| October 27 | []() |  |  |
+| October 27 | [1277. Count Square Submatrices With All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium | Solved |
 | October 28 | []() |  |  |
 | October 29 | []() |  |  |
 | October 30 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 21 | 21 | 00 |
+| Medium | 22 | 22 | 00 |
 | Hard   | 03 | 03 | 00 |
