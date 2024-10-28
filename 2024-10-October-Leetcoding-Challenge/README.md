@@ -30,7 +30,7 @@
 | October 25 | [1233. Remove Subfolders From The File System](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) |  |  |
 | October 26 | [2458. Height of  Binary Tree After SubTree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | Hard | Solved |
 | October 27 | [1277. Count Square Submatrices With All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium | Solved |
-| October 28 | []() |  |  |
+| October 28 | [2501. Longest Square Streak in an array](https://leetcode.com/problems/longest-square-streak-in-an-array/) | Medium | Solved |
 | October 29 | []() |  |  |
 | October 30 | []() |  |  |
 | October 31 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 22 | 22 | 00 |
+| Medium | 23 | 23 | 00 |
 | Hard   | 03 | 03 | 00 |
