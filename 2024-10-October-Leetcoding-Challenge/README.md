@@ -27,7 +27,7 @@
 | October 22 | [2583. Kth Largest Sum In a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | Medium | Solved |
 | October 23 | [2641. Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | Medium | Solved |
 | October 24 | [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | Medium | Solved |
-| October 25 | [1233. Remove Subfolders From The File System](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) |  |  |
+| October 25 | [1233. Remove Subfolders From The File System](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | Medium | Medium |
 | October 26 | [2458. Height of  Binary Tree After SubTree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | Hard | Solved |
 | October 27 | [1277. Count Square Submatrices With All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium | Solved |
 | October 28 | [2501. Longest Square Streak in an array](https://leetcode.com/problems/longest-square-streak-in-an-array/) | Medium | Solved |
