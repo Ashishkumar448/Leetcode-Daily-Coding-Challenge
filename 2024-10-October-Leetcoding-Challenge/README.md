@@ -33,7 +33,7 @@
 | October 28 | [2501. Longest Square Streak in an array](https://leetcode.com/problems/longest-square-streak-in-an-array/) | Medium | Solved |
 | October 29 | [2684. Maximum Number Of Moves In a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/) | Medium | Solved |
 | October 30 | [1671. Minimum Number of Removals to make mountain array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | Hard | Solved |
-| October 31 | []() |  |  |
+| October 31 | [2463. Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/) | Hard | Solved |
 
 
 
@@ -44,4 +44,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 02 | 02 | 00 |
 | Medium | 24 | 24 | 00 |
-| Hard   | 04 | 04 | 00 |
+| Hard   | 05 | 05 | 00 |
