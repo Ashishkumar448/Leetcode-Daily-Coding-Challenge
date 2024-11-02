@@ -4,7 +4,7 @@
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | November 1 | [1957. Delete Character To make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | Easy | Solved |
-| November 2 | []() |  |  |
+| November 2 | [2490. Circular Distance](https://leetcode.com/problems/circular-sentence/) | Easy | Solved |
 | November 3 | []() |  |  |
 | November 4 | []() |  |  |
 | November 5 | []() |  |  |
@@ -40,6 +40,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 01 | 01 | 00 |
+| Easy   | 02 | 02 | 00 |
 | Medium | 00 | 00 | 00 |
 | Hard   | 00 | 00 | 00 |
