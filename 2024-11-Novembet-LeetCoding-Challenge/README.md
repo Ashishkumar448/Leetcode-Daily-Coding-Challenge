@@ -6,7 +6,7 @@
 | November 1 | [1957. Delete Character To make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | Easy | Solved |
 | November 2 | [2490. Circular Distance](https://leetcode.com/problems/circular-sentence/) | Easy | Solved |
 | November 3 | [796. Rotate Strings](https://leetcode.com/problems/rotate-string/) | Easy | Solved |
-| November 4 | []() |  |  |
+| November 4 | [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/description/) | Medium | Solved |
 | November 5 | []() |  |  |
 | November 6 | []() |  |  |
 | November 7 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 03 | 03 | 00 |
-| Medium | 00 | 00 | 00 |
+| Medium | 01 | 01 | 00 |
 | Hard   | 00 | 00 | 00 |
