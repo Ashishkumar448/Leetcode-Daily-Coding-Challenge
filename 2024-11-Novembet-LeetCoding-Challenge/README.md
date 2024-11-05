@@ -7,7 +7,7 @@
 | November 2 | [2490. Circular Distance](https://leetcode.com/problems/circular-sentence/) | Easy | Solved |
 | November 3 | [796. Rotate Strings](https://leetcode.com/problems/rotate-string/) | Easy | Solved |
 | November 4 | [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/description/) | Medium | Solved |
-| November 5 | [2457. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/) | Medium | Solved |
+| November 5 | [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/) | Medium | Solved |
 | November 6 | []() |  |  |
 | November 7 | []() |  |  |
 | November 8 | []() |  |  |
