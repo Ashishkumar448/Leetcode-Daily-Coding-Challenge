@@ -8,7 +8,7 @@
 | November 3 | [796. Rotate Strings](https://leetcode.com/problems/rotate-string/) | Easy | Solved |
 | November 4 | [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/description/) | Medium | Solved |
 | November 5 | [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/) | Medium | Solved |
-| November 6 | []() |  |  |
+| November 6 | [3011. Find if Array can be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/) | Medium | Solved |
 | November 7 | []() |  |  |
 | November 8 | []() |  |  |
 | November 9 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 03 | 03 | 00 |
-| Medium | 01 | 01 | 00 |
+| Medium | 03 | 03 | 00 |
 | Hard   | 00 | 00 | 00 |
