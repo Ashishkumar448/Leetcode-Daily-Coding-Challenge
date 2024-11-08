@@ -10,7 +10,7 @@
 | November 5 | [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/) | Medium | Solved |
 | November 6 | [3011. Find if Array can be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/) | Medium | Solved |
 | November 7 | [2275. Largest combination With Bitwise And Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/description/) | Medium | Solved |
-| November 8 | []() |  |  |
+| November 8 | [1829. Maximum XOR For Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/) | Medium | Solved |
 | November 9 | []() |  |  |
 | November 10 | []() |  |  |
 | November 11 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 03 | 03 | 00 |
-| Medium | 04 | 04 | 00 |
+| Medium | 05 | 05 | 00 |
 | Hard   | 00 | 00 | 00 |
