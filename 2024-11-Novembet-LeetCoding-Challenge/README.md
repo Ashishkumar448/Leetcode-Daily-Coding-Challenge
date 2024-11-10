@@ -12,7 +12,7 @@
 | November 7 | [2275. Largest combination With Bitwise And Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/description/) | Medium | Solved |
 | November 8 | [1829. Maximum XOR For Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/) | Medium | Solved |
 | November 9 | [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end/description/) | Medium | Solved |
-| November 10 | []() |  |  |
+| November 10 | [3097. Shortest Subarray With or at Least k II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/) | Medium | Solved |
 | November 11 | []() |  |  |
 | November 12 | []() |  |  |
 | November 13 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 03 | 03 | 00 |
-| Medium | 06 | 06 | 00 |
+| Medium | 07 | 07 | 00 |
 | Hard   | 00 | 00 | 00 |
