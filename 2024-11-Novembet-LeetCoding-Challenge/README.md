@@ -14,7 +14,7 @@
 | November 9 | [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end/description/) | Medium | Solved |
 | November 10 | [3097. Shortest Subarray With or at Least k II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/) | Medium | Solved |
 | November 11 | [2601. Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | Medium | Solved |
-| November 12 | []() |  |  |
+| November 12 | [2070. Most Beautiiful Item For Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | Medium | Solved |
 | November 13 | []() |  |  |
 | November 14 | []() |  |  |
 | November 15 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 03 | 03 | 00 |
-| Medium | 08 | 08 | 00 |
+| Medium | 09 | 09 | 00 |
 | Hard   | 00 | 00 | 00 |
