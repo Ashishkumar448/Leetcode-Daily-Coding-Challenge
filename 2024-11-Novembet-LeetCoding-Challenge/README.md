@@ -15,7 +15,7 @@
 | November 10 | [3097. Shortest Subarray With or at Least k II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/) | Medium | Solved |
 | November 11 | [2601. Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | Medium | Solved |
 | November 12 | [2070. Most Beautiiful Item For Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | Medium | Solved |
-| November 13 | []() |  |  |
+| November 13 | [2563. Count the Number Of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | Medium | Solved |
 | November 14 | []() |  |  |
 | November 15 | []() |  |  |
 | November 16 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 03 | 03 | 00 |
-| Medium | 09 | 09 | 00 |
+| Medium | 10 | 10 | 00 |
 | Hard   | 00 | 00 | 00 |
