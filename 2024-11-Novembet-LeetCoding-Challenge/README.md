@@ -16,7 +16,7 @@
 | November 11 | [2601. Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | Medium | Solved |
 | November 12 | [2070. Most Beautiiful Item For Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | Medium | Solved |
 | November 13 | [2563. Count the Number Of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | Medium | Solved |
-| November 14 | []() |  |  |
+| November 14 | [2064. Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | Medium | Solved |
 | November 15 | []() |  |  |
 | November 16 | []() |  |  |
 | November 17 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 03 | 03 | 00 |
-| Medium | 10 | 10 | 00 |
+| Medium | 11 | 11 | 00 |
 | Hard   | 00 | 00 | 00 |
