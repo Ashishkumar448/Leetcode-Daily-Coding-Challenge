@@ -17,7 +17,7 @@
 | November 12 | [2070. Most Beautiiful Item For Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | Medium | Solved |
 | November 13 | [2563. Count the Number Of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | Medium | Solved |
 | November 14 | [2064. Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | Medium | Solved |
-| November 15 | []() |  |  |
+| November 15 | [1574. Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/description/) | Medium | Solved |
 | November 16 | []() |  |  |
 | November 17 | []() |  |  |
 | November 18 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 03 | 03 | 00 |
-| Medium | 11 | 11 | 00 |
+| Medium | 12 | 12 | 00 |
 | Hard   | 00 | 00 | 00 |
