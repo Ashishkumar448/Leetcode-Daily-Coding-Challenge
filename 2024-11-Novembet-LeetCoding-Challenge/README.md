@@ -22,7 +22,7 @@
 | November 17 | [862. Shortest SubArray With Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | Hard | Solved |
 | November 18 | [1652. Defuse The bomb](https://leetcode.com/problems/defuse-the-bomb/) | Easy | Solved |
 | November 19 | [2461. Maximum Sum of Distinct Subarray With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/) | Medium | Solved |
-| November 20 | []() |  |  |
+| November 20 | [2516. Take K of Each Character From Left And Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/) | Medium | Solved |
 | November 21 | []() |  |  |
 | November 22 | []() |  |  |
 | November 23 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 04 | 04 | 00 |
-| Medium | 14 | 14 | 00 |
+| Medium | 15 | 15 | 00 |
 | Hard   | 01 | 01 | 00 |
