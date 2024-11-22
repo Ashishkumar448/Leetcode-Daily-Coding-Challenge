@@ -24,7 +24,7 @@
 | November 19 | [2461. Maximum Sum of Distinct Subarray With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/) | Medium | Solved |
 | November 20 | [2516. Take K of Each Character From Left And Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/) | Medium | Solved |
 | November 21 | [2257. Count Unguarded Cellls In The Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/) | Medium | Solved |
-| November 22 | []() |  |  |
+| November 22 | [1072. Flip Columns For Maximum Number Of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/) | Medium | Solved |
 | November 23 | []() |  |  |
 | November 24 | []() |  |  |
 | November 25 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 04 | 04 | 00 |
-| Medium | 16 | 16 | 00 |
+| Medium | 17 | 17 | 00 |
 | Hard   | 01 | 01 | 00 |
