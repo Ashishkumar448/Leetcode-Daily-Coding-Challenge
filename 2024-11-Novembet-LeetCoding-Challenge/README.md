@@ -27,7 +27,7 @@
 | November 22 | [1072. Flip Columns For Maximum Number Of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/) | Medium | Solved |
 | November 23 | [1681. Rotating The Box](https://leetcode.com/problems/rotating-the-box/description/) | Medium | Solved |
 | November 24 | [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | Medium | Solved |
-| November 25 | []() |  |  |
+| November 25 | [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | Hard | Solved |
 | November 26 | []() |  |  |
 | November 27 | []() |  |  |
 | November 28 | []() |  |  |
@@ -42,4 +42,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 04 | 04 | 00 |
 | Medium | 19 | 19 | 00 |
-| Hard   | 01 | 01 | 00 |
+| Hard   | 02 | 02 | 00 |
