@@ -31,7 +31,7 @@
 | November 26 | [2924. Find Chapion II](https://leetcode.com/problems/find-champion-ii/) | Medium | Solved |
 | November 27 | [3243. Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/) | Medium | Solved |
 | November 28 | [2290. Minimum Obstacle Removal To Reach Coorner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | Hard | Solved |
-| November 29 | []() |  |  |
+| November 29 | [2577. Minimum Time to Visit A Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/) | Hard | Solved |
 | November 30 | []() |  |  |
 
 
@@ -42,4 +42,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 04 | 04 | 00 |
 | Medium | 21 | 21 | 00 |
-| Hard   | 03 | 03 | 00 |
+| Hard   | 04 | 04 | 00 |
