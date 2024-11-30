@@ -32,7 +32,7 @@
 | November 27 | [3243. Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/) | Medium | Solved |
 | November 28 | [2290. Minimum Obstacle Removal To Reach Coorner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | Hard | Solved |
 | November 29 | [2577. Minimum Time to Visit A Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/) | Hard | Solved |
-| November 30 | []() |  |  |
+| November 30 | [2097. Valid Aeeangements Of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/) | Hard | Solved |
 
 
 
@@ -42,4 +42,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 04 | 04 | 00 |
 | Medium | 21 | 21 | 00 |
-| Hard   | 04 | 04 | 00 |
+| Hard   | 05 | 05 | 00 |
