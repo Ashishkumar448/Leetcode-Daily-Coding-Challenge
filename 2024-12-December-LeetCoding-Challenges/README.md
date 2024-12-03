@@ -5,7 +5,7 @@
 | --- | --- | --- | --- |
 | December 01 | [1346. Check if N and it's Double exists](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Easy | Solved |
 | December 02 | [1455. Check if a word Occurs as a Prefix Of Any Word in a sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy | Solved |
-| December 03 | []() |  |  |
+| December 03 | [2109. Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/) | Medium | Solved |
 | December 04 | []() |  |  |
 | December 05 | []() |  |  |
 | December 06 | []() |  |  |
@@ -41,6 +41,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 01 | 01 | 00 |
-| Medium | 00 | 00 | 00 |
+| Easy   | 02 | 02 | 00 |
+| Medium | 01 | 01 | 00 |
 | Hard   | 00 | 00 | 00 |
