@@ -11,7 +11,7 @@
 | December 06 | [2554. Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/) | Medium | Solved |
 | December 07 | [1760. Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | Medium | Solved |
 | December 08 | [2054. Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) | Medium | Solved |
-| December 09 | []() |  |  |
+| December 09 | [3152. Special Array II](https://leetcode.com/problems/special-array-ii/) | Medium | Solved |
 | December 10 | []() |  |  |
 | December 11 | []() |  |  |
 | December 12 | []() |  |  |
@@ -42,5 +42,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 06 | 06 | 00 |
+| Medium | 07 | 07 | 00 |
 | Hard   | 00 | 00 | 00 |
