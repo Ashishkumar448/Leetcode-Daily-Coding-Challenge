@@ -19,7 +19,7 @@
 | December 14 | [2762. Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/) | Medium | Solved |
 | December 15 | [1792. Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | Medium | Solved |
 | December 16 | [3264. Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | Easy | Solved |
-| December 17 | []() |  |  |
+| December 17 | [2182. Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | Medium | Solved |
 | December 18 | []() |  |  |
 | December 19 | []() |  |  |
 | December 20 | []() |  |  |
@@ -42,5 +42,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 04 | 04 | 00 |
-| Medium | 12 | 12 | 00 |
+| Medium | 13 | 13 | 00 |
 | Hard   | 00 | 00 | 00 |
