@@ -22,7 +22,7 @@
 | December 17 | [2182. Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | Medium | Solved |
 | December 18 | [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | Easy | Solved |
 | December 19 | [769. Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | Medium | Solved |
-| December 20 | []() |  |  |
+| December 20 | [https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | Medium | Solved |
 | December 21 | []() |  |  |
 | December 22 | []() |  |  |
 | December 23 | []() |  |  |
@@ -42,5 +42,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 05 | 05 | 00 |
-| Medium | 14 | 14 | 00 |
+| Medium | 15 | 15 | 00 |
 | Hard   | 00 | 00 | 00 |
