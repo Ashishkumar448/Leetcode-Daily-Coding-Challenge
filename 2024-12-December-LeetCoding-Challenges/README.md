@@ -23,7 +23,7 @@
 | December 18 | [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | Easy | Solved |
 | December 19 | [769. Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | Medium | Solved |
 | December 20 | [https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | Medium | Solved |
-| December 21 | []() |  |  |
+| December 21 | [2872. Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/) | Hard | Solved |
 | December 22 | []() |  |  |
 | December 23 | []() |  |  |
 | December 24 | []() |  |  |
@@ -43,4 +43,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 05 | 05 | 00 |
 | Medium | 15 | 15 | 00 |
-| Hard   | 00 | 00 | 00 |
+| Hard   | 01 | 01 | 00 |
