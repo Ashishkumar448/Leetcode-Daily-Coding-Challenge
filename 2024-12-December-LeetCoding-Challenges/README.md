@@ -30,7 +30,7 @@
 | December 25 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Medium | Solved |
 | December 26 | [494. Target Sum](https://leetcode.com/problems/target-sum/) | Medium | Solved |
 | December 27 | [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | Medium | Solved |
-| December 28 | []() |  |  |
+| December 28 | [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | Hard | Solved |
 | December 29 | []() |  |  |
 | December 30 | []() |  |  |
 | December 31 | []() |  |  |
@@ -43,4 +43,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 05 | 05 | 00 |
 | Medium | 19 | 19 | 00 |
-| Hard   | 03 | 03 | 00 |
+| Hard   | 04 | 04 | 00 |
