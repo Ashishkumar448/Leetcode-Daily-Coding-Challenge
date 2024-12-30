@@ -32,7 +32,7 @@
 | December 27 | [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | Medium | Solved |
 | December 28 | [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | Hard | Solved |
 | December 29 | [1639. Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard | Solved |
-| December 30 | []() |  |  |
+| December 30 | [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | Medium | Solved |
 | December 31 | []() |  |  |
 
 
@@ -42,5 +42,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 05 | 05 | 00 |
-| Medium | 19 | 19 | 00 |
+| Medium | 20 | 20 | 00 |
 | Hard   | 05 | 05 | 00 |
