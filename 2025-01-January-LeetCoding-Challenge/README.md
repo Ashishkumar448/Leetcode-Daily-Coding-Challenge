@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   |  |  |  |
-| Medium |  |  |  |
-| Hard   |  |  |  |
+| Easy   | 01 | 01 | 00 |
+| Medium | 00 | 00 | 00 |
+| Hard   | 00 | 00 | 00 |
