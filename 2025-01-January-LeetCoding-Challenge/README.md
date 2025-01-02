@@ -4,7 +4,7 @@
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | January 01 | [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | Easy | Solved |
-| January 02 | []() |  |  |
+| January 02 | [2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | Medium | Solved |
 | January 03 | []() |  |  |
 | January 04 | []() |  |  |
 | January 05 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 01 | 01 | 00 |
-| Medium | 00 | 00 | 00 |
+| Medium | 01 | 01 | 00 |
 | Hard   | 00 | 00 | 00 |
