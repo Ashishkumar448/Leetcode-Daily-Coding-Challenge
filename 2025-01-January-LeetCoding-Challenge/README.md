@@ -8,7 +8,7 @@
 | January 03 | [2270. Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | Medium | Solved |
 | January 04 | [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | Medium | Solved |
 | January 05 | [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/) | Medium | Solved |
-| January 06 | []() |  |  |
+| January 06 | [1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium | Solved |
 | January 07 | []() |  |  |
 | January 08 | []() |  |  |
 | January 09 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 01 | 01 | 00 |
-| Medium | 04 | 04 | 00 |
+| Medium | 05 | 05 | 00 |
 | Hard   | 00 | 00 | 00 |
