@@ -10,7 +10,7 @@
 | January 05 | [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/) | Medium | Solved |
 | January 06 | [1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium | Solved |
 | January 07 | [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | Easy | Solved |
-| January 08 | []() |  |  |
+| January 08 | [3042. Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/) | Easy | Solved |
 | January 09 | []() |  |  |
 | January 10 | []() |  |  |
 | January 11 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 02 | 02 | 00 |
+| Easy   | 03 | 03 | 00 |
 | Medium | 05 | 05 | 00 |
 | Hard   | 00 | 00 | 00 |
