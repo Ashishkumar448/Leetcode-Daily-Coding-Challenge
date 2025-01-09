@@ -11,7 +11,7 @@
 | January 06 | [1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium | Solved |
 | January 07 | [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | Easy | Solved |
 | January 08 | [3042. Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/) | Easy | Solved |
-| January 09 | []() |  |  |
+| January 09 | [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | Easy | Solved |
 | January 10 | []() |  |  |
 | January 11 | []() |  |  |
 | January 12 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 03 | 03 | 00 |
+| Easy   | 04 | 04 | 00 |
 | Medium | 05 | 05 | 00 |
 | Hard   | 00 | 00 | 00 |
