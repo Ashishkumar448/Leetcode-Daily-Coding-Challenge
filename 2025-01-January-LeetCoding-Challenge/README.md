@@ -13,7 +13,7 @@
 | January 08 | [3042. Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/) | Easy | Solved |
 | January 09 | [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | Easy | Solved |
 | January 10 | [916. Word Subsets](https://leetcode.com/problems/word-subsets/) | Medium | Solved |
-| January 11 | []() |  |  |
+| January 11 | [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | Easy | Solved |
 | January 12 | []() |  |  |
 | January 13 | []() |  |  |
 | January 14 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 04 | 04 | 00 |
+| Easy   | 05 | 05 | 00 |
 | Medium | 06 | 06 | 00 |
 | Hard   | 00 | 00 | 00 |
