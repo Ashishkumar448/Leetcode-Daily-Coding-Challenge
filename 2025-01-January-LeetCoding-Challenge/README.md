@@ -21,7 +21,7 @@
 | January 16 | [2425. Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) | Medium | Solved |
 | January 17 | [2683. Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/) | Medium | Solved |
 | January 18 | [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard | Solved |
-| January 19 | []() |  |  |
+| January 19 | [407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | Hard | Solved |
 | January 20 | []() |  |  |
 | January 21 | []() |  |  |
 | January 22 | []() |  |  |
@@ -40,4 +40,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 05 | 05 | 00 |
 | Medium | 13 | 13 | 00 |
-| Hard   | 00 | 00 | 00 |
+| Hard   | 01 | 01 | 00 |
