@@ -22,7 +22,7 @@
 | January 17 | [2683. Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/) | Medium | Solved |
 | January 18 | [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard | Solved |
 | January 19 | [407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | Hard | Solved |
-| January 20 | []() |  |  |
+| January 20 | [2661. First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/) | Medium | Solved |
 | January 21 | []() |  |  |
 | January 22 | []() |  |  |
 | January 23 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 05 | 05 | 00 |
-| Medium | 13 | 13 | 00 |
+| Medium | 14 | 14 | 00 |
 | Hard   | 01 | 01 | 00 |
