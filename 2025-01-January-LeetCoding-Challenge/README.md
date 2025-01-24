@@ -26,7 +26,7 @@
 | January 21 | [2017. Grid Game](https://leetcode.com/problems/grid-game/) | Medium | Solved |
 | January 22 | [1765. Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | Medium | Solved |
 | January 23 | [1267. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | Medium | Solved |
-| January 24 | []() |  |  |
+| January 24 | [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | Solved |
 | January 25 | []() |  |  |
 | January 26 | []() |  |  |
 | January 27 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 05 | 05 | 00 |
-| Medium | 17 | 17 | 00 |
+| Medium | 18 | 18 | 00 |
 | Hard   | 01 | 01 | 00 |
