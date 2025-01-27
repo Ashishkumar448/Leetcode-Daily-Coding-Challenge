@@ -29,7 +29,7 @@
 | January 24 | [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | Solved |
 | January 25 | [2948. Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | Medium | Solved |
 | January 26 | [2127. Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/) | Hard | Solved |
-| January 27 | []() |  |  |
+| January 27 | [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | Medium | Solved |
 | January 28 | []() |  |  |
 | January 29 | []() |  |  |
 | January 30 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 05 | 05 | 00 |
-| Medium | 19 | 19 | 00 |
+| Medium | 20 | 20 | 00 |
 | Hard   | 02 | 02 | 00 |
