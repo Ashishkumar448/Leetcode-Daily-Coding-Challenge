@@ -5,7 +5,7 @@
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | February 01 | [3151. Special Array I](https://leetcode.com/problems/special-array-i/) | Easy | Solved |
-| February 02 | []() |  |  |
+| February 02 | [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy | Solved |
 | February 03 | []() |  |  |
 | February 04 | []() |  |  |
 | February 05 | []() |  |  |
@@ -37,6 +37,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 01 | 01 | 00 |
+| Easy   | 02 | 02 | 00 |
 | Medium | 00 | 00 | 00 |
 | Hard   | 00 | 00 | 00 |
