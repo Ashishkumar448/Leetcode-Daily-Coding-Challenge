@@ -7,7 +7,7 @@
 | February 01 | [3151. Special Array I](https://leetcode.com/problems/special-array-i/) | Easy | Solved |
 | February 02 | [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy | Solved |
 | February 03 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | Solved |
-| February 04 | []() |  |  |
+| February 04 | [1800. Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | Easy | Solved |
 | February 05 | []() |  |  |
 | February 06 | []() |  |  |
 | February 07 | []() |  |  |
@@ -37,6 +37,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 03 | 03 | 00 |
+| Easy   | 04 | 04 | 00 |
 | Medium | 00 | 00 | 00 |
 | Hard   | 00 | 00 | 00 |
