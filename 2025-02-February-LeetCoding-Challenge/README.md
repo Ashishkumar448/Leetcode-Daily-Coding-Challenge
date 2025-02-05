@@ -8,7 +8,7 @@
 | February 02 | [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy | Solved |
 | February 03 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | Solved |
 | February 04 | [1800. Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | Easy | Solved |
-| February 05 | []() |  |  |
+| February 05 | [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | Easy | Solved |
 | February 06 | []() |  |  |
 | February 07 | []() |  |  |
 | February 08 | []() |  |  |
@@ -37,6 +37,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 04 | 04 | 00 |
+| Easy   | 05 | 05 | 00 |
 | Medium | 00 | 00 | 00 |
 | Hard   | 00 | 00 | 00 |
