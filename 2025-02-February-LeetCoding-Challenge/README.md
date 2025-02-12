@@ -15,7 +15,7 @@
 | February 09 | [2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/) | Medium | Solved |
 | February 10 | [3174. Clear Digits](https://leetcode.com/problems/clear-digits/) | Easy | Solved |
 | February 11 | [1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | Medium | Solved |
-| February 12 | []() |  |  |
+| February 12 | [2342. Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium | Solved |
 | February 13 | []() |  |  |
 | February 14 | []() |  |  |
 | February 15 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 06 | 06 | 00 |
-| Medium | 05 | 05 | 00 |
+| Medium | 06 | 06 | 00 |
 | Hard   | 00 | 00 | 00 |
