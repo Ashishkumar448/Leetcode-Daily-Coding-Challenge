@@ -16,7 +16,7 @@
 | February 10 | [3174. Clear Digits](https://leetcode.com/problems/clear-digits/) | Easy | Solved |
 | February 11 | [1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | Medium | Solved |
 | February 12 | [2342. Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium | Solved |
-| February 13 | []() |  |  |
+| February 13 | [3066. Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | Medium | Solved |
 | February 14 | []() |  |  |
 | February 15 | []() |  |  |
 | February 16 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 06 | 06 | 00 |
-| Medium | 06 | 06 | 00 |
+| Medium | 07 | 07 | 00 |
 | Hard   | 00 | 00 | 00 |
