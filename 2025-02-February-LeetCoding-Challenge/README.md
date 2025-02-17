@@ -20,7 +20,7 @@
 | February 14 | [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Medium | Solved |
 | February 15 | [2698. Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/) | Medium | Solved |
 | February 16 | [1718. Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/) | Medium | Solved |
-| February 17 | []() |  |  |
+| February 17 | [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | Medium | Solved |
 | February 18 | []() |  |  |
 | February 19 | []() |  |  |
 | February 20 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 06 | 06 | 00 |
-| Medium | 10 | 10 | 00 |
+| Medium | 11 | 11 | 00 |
 | Hard   | 00 | 00 | 00 |
