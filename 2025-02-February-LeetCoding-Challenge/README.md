@@ -22,7 +22,7 @@
 | February 16 | [1718. Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/) | Medium | Solved |
 | February 17 | [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | Medium | Solved |
 | February 18 | [2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/) | Medium | Solved |
-| February 19 | []() |  |  |
+| February 19 | [1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | Solved |
 | February 20 | []() |  |  |
 | February 21 | []() |  |  |
 | February 22 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 06 | 06 | 00 |
-| Medium | 12 | 12 | 00 |
+| Medium | 13 | 13 | 00 |
 | Hard   | 00 | 00 | 00 |
