@@ -25,7 +25,7 @@
 | February 19 | [1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | Solved |
 | February 20 | [1980. Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | Medium | Solved |
 | February 21 | [1261. Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | Medium | Solved |
-| February 22 | []() |  |  |
+| February 22 | [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | Hard | Solved |
 | February 23 | []() |  |  |
 | February 24 | []() |  |  |
 | February 25 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 06 | 06 | 00 |
-| Medium | 15 | 15 | 00 |
+| Medium | 16 | 16 | 00 |
 | Hard   | 00 | 00 | 00 |
