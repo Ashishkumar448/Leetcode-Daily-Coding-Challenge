@@ -29,7 +29,7 @@
 | February 23 | [889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium | Solved |
 | February 24 | [2467. Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/) | Medium | Solved |
 | February 25 | [1524. Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium | Solved |
-| February 26 | []() |  |  |
+| February 26 | [1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Medium | Solved |
 | February 27 | []() |  |  |
 | February 28 | []() |  |  |
 
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 06 | 06 | 00 |
-| Medium | 19 | 19 | 00 |
+| Medium | 20 | 20 | 00 |
 | Hard   | 00 | 00 | 00 |
