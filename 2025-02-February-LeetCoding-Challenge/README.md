@@ -31,7 +31,7 @@
 | February 25 | [1524. Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium | Solved |
 | February 26 | [1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Medium | Solved |
 | February 27 | [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | Medium | Solved |
-| February 28 | []() |  |  |
+| February 28 | [1092. Shortest Common Supersequence ](https://leetcode.com/problems/shortest-common-supersequence) | Haed | Solved |
 
 #### Summary (February 2025)
 
@@ -39,4 +39,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 06 | 06 | 00 |
 | Medium | 21 | 21 | 00 |
-| Hard   | 00 | 00 | 00 |
+| Hard   | 01 | 01 | 00 |
