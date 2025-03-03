@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | March 01 | [2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | Easy | Solved |
 | March 02 | [2570. Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | Easy | Solved |
-| March 03 | []() |  |  |
+| March 03 | [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Medium | Solved |
 | March 04 | []() |  |  |
 | March 05 | []() |  |  |
 | March 06 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 00 | 00 | 00 |
+| Medium | 01 | 01 | 00 |
 | Hard   | 00 | 00 | 00 |
