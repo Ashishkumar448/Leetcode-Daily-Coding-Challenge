@@ -12,7 +12,7 @@
 | March 06 | [2965. Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | Easy | Solved |
 | March 07 | [2523. Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | Medium | Solved |
 | March 08 | [2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy | Solved |
-| March 09 | []() |  |  |
+| March 09 | [3208. Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/) | Medium | Solved |
 | March 10 | []() |  |  |
 | March 11 | []() |  |  |
 | March 12 | []() |  |  |
@@ -40,6 +40,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 08 | 08 | 00 |
-| Medium | 04 | 04 | 00 |
+| Easy   | 04 | 04 | 00 |
+| Medium | 05 | 05 | 00 |
 | Hard   | 00 | 00 | 00 |
