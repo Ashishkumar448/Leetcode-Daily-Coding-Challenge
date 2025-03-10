@@ -13,7 +13,7 @@
 | March 07 | [2523. Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | Medium | Solved |
 | March 08 | [2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy | Solved |
 | March 09 | [3208. Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/) | Medium | Solved |
-| March 10 | []() |  |  |
+| March 10 | [3306. Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | Medium | Solved |
 | March 11 | []() |  |  |
 | March 12 | []() |  |  |
 | March 13 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 04 | 04 | 00 |
-| Medium | 05 | 05 | 00 |
+| Medium | 06 | 06 | 00 |
 | Hard   | 00 | 00 | 00 |
