@@ -15,7 +15,7 @@
 | March 09 | [3208. Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/) | Medium | Solved |
 | March 10 | [3306. Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | Medium | Solved |
 | March 11 | [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium | Solved |
-| March 12 | []() |  |  |
+| March 12 | [2529. Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | Easy | Solved |
 | March 13 | []() |  |  |
 | March 14 | []() |  |  |
 | March 15 | []() |  |  |
@@ -40,6 +40,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 04 | 04 | 00 |
+| Easy   | 05 | 05 | 00 |
 | Medium | 07 | 07 | 00 |
 | Hard   | 00 | 00 | 00 |
