@@ -26,7 +26,7 @@
 | March 20 | [3108. Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) | Hard | Solved |
 | March 21 | [2115. Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | Medium | Solved |
 | March 22 | [2685. Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | Medium | Solved |
-| March 23 | []() |  |  |
+| March 23 | [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | Medium | Solved |
 | March 24 | []() |  |  |
 | March 25 | []() |  |  |
 | March 26 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 06 | 06 | 00 |
-| Medium | 15 | 15 | 00 |
+| Medium | 16 | 16 | 00 |
 | Hard   | 01 | 01 | 00 |
