@@ -28,7 +28,7 @@
 | March 22 | [2685. Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | Medium | Solved |
 | March 23 | [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | Medium | Solved |
 | March 24 | [3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/) | Medium | Solved |
-| March 25 | []() |  |  |
+| March 25 | [3394. Check if Grid can be Cut into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/) | Medium | Solved |
 | March 26 | []() |  |  |
 | March 27 | []() |  |  |
 | March 28 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 06 | 06 | 00 |
-| Medium | 17 | 17 | 00 |
+| Medium | 18 | 18 | 00 |
 | Hard   | 01 | 01 | 00 |
