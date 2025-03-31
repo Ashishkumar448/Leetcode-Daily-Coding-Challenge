@@ -34,7 +34,7 @@
 | March 28 | [2503. Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/) | Hard | Solved |
 | March 29 | [2818. Apply Operations to Maximize Score](https://leetcode.com/problems/apply-operations-to-maximize-score/) | Hard | Solved |
 | March 30 | [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | Medium | Solved |
-| March 31 | []() |  |  |
+| March 31 | [2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) | Hard | Solved |
 
 #### Summary (March 2025)
 
@@ -42,4 +42,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 06 | 06 | 00 |
 | Medium | 21 | 21 | 00 |
-| Hard   | 03 | 03 | 00 |
+| Hard   | 04 | 04 | 00 |
