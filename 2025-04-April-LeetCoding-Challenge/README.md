@@ -16,7 +16,7 @@
 | April 10 | [2999. Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/) | Hard | Solved |
 | April 11 | [2843. Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | Easy | Solved |
 | April 12 | [3272. Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/) | Hard | Solved |
-| April 13 | []() |  |  |
+| April 13 | [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | Medium | Solved |
 | April 14 | []() |  |  |
 | April 15 | []() |  |  |
 | April 16 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 05 | 05 | 00 |
-| Medium | 05 | 05 | 00 |
+| Medium | 06 | 06 | 00 |
 | Hard   | 02 | 02 | 00 |
