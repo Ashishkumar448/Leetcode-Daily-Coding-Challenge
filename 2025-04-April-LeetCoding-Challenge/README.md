@@ -17,7 +17,7 @@
 | April 11 | [2843. Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | Easy | Solved |
 | April 12 | [3272. Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/) | Hard | Solved |
 | April 13 | [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | Medium | Solved |
-| April 14 | []() |  |  |
+| April 14 | [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | Easy | Solved |
 | April 15 | []() |  |  |
 | April 16 | []() |  |  |
 | April 17 | []() |  |  |
@@ -39,6 +39,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 05 | 05 | 00 |
+| Easy   | 06 | 06 | 00 |
 | Medium | 06 | 06 | 00 |
 | Hard   | 02 | 02 | 00 |
