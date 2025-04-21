@@ -24,7 +24,7 @@
 | April 18 | [38. Count and Say](https://leetcode.com/problems/count-and-say) | Medium | Solved |
 | April 19 | [2563. Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | Medium | Solved |
 | April 20 | [781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/) | Medium | Solved |
-| April 21 | []() |  |  |
+| April 21 | [2145. Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium | Solved |
 | April 22 | []() |  |  |
 | April 23 | []() |  |  |
 | April 24 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 07 | 07 | 00 |
-| Medium | 10 | 10 | 00 |
+| Medium | 11 | 11 | 00 |
 | Hard   | 03 | 03 | 00 |
