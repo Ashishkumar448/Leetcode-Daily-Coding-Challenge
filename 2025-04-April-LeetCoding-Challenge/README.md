@@ -26,7 +26,7 @@
 | April 20 | [781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/) | Medium | Solved |
 | April 21 | [2145. Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium | Solved |
 | April 22 | [2338. Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | Hard | Solved |
-| April 23 | []() |  |  |
+| April 23 | [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/) | Easy | SOlved |
 | April 24 | []() |  |  |
 | April 25 | []() |  |  |
 | April 26 | []() |  |  |
@@ -39,6 +39,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 07 | 07 | 00 |
+| Easy   | 08 | 08 | 00 |
 | Medium | 11 | 11 | 00 |
 | Hard   | 04 | 04 | 00 |
