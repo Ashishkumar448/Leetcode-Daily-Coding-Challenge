@@ -28,7 +28,7 @@
 | April 22 | [2338. Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | Hard | Solved |
 | April 23 | [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/) | Easy | SOlved |
 | April 24 | [2799. Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/) | Medium | Solved |
-| April 25 | []() |  |  |
+| April 25 | [2845. Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays/) | Medium | Solved |
 | April 26 | []() |  |  |
 | April 27 | []() |  |  |
 | April 28 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 08 | 08 | 00 |
-| Medium | 12 | 12 | 00 |
+| Medium | 13 | 13 | 00 |
 | Hard   | 04 | 04 | 00 |
