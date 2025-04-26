@@ -29,7 +29,7 @@
 | April 23 | [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/) | Easy | SOlved |
 | April 24 | [2799. Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/) | Medium | Solved |
 | April 25 | [2845. Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays/) | Medium | Solved |
-| April 26 | []() |  |  |
+| April 26 | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | Hard | Solved |
 | April 27 | []() |  |  |
 | April 28 | []() |  |  |
 | April 29 | []() |  |  |
@@ -39,6 +39,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 08 | 08 | 00 |
+| Easy   | 09 | 09 | 00 |
 | Medium | 13 | 13 | 00 |
 | Hard   | 04 | 04 | 00 |
