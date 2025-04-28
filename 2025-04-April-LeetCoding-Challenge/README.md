@@ -31,7 +31,7 @@
 | April 25 | [2845. Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays/) | Medium | Solved |
 | April 26 | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | Hard | Solved |
 | April 27 | [3392. Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | Easy | Solved |
-| April 28 | []() |  |  |
+| April 28 | [2302. Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | Hard | Solved |
 | April 29 | []() |  |  |
 | April 30 | []() |  |  |
 
@@ -41,4 +41,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 10 | 10 | 00 |
 | Medium | 13 | 13 | 00 |
-| Hard   | 04 | 04 | 00 |
+| Hard   | 05 | 05 | 00 |
