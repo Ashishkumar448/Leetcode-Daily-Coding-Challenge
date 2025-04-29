@@ -32,7 +32,7 @@
 | April 26 | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | Hard | Solved |
 | April 27 | [3392. Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | Easy | Solved |
 | April 28 | [2302. Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | Hard | Solved |
-| April 29 | []() |  |  |
+| April 29 | [2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | Medium | Solved |
 | April 30 | []() |  |  |
 
 #### Summary (April 2025)
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 10 | 10 | 00 |
-| Medium | 13 | 13 | 00 |
+| Medium | 14 | 14 | 00 |
 | Hard   | 05 | 05 | 00 |
