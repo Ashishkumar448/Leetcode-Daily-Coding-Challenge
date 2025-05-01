@@ -4,7 +4,7 @@
 
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
-| May 01 | []() |  |  |
+| May 01 | [2071. Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/) | Hard | Solved |
 | May 02 | []() |  |  |
 | May 03 | []() |  |  |
 | May 04 | []() |  |  |
@@ -44,4 +44,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 00 | 00 | 00 |
 | Medium | 00 | 00 | 00 |
-| Hard   | 00 | 00 | 00 |
+| Hard   | 01 | 01 | 00 |
