@@ -5,7 +5,7 @@
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | May 01 | [2071. Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/) | Hard | Solved |
-| May 02 | []() |  |  |
+| May 02 | [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/) | Medium | Solved |
 | May 03 | []() |  |  |
 | May 04 | []() |  |  |
 | May 05 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 00 | 00 | 00 |
-| Medium | 00 | 00 | 00 |
+| Medium | 01 | 01 | 00 |
 | Hard   | 01 | 01 | 00 |
