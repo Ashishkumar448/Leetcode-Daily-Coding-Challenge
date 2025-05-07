@@ -10,7 +10,7 @@
 | May 04 | [1128. Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | Easy | Solved |
 | May 05 | [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | Medium | Solved |
 | May 06 | [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | Easy | Solved |
-| May 07 | []() |  |  |
+| May 07 | [3341. Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/) | Medium | Solved |
 | May 08 | []() |  |  |
 | May 09 | []() |  |  |
 | May 10 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 03 | 03 | 00 |
+| Medium | 04 | 04 | 00 |
 | Hard   | 01 | 01 | 00 |
