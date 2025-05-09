@@ -12,7 +12,7 @@
 | May 06 | [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | Easy | Solved |
 | May 07 | [3341. Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/) | Medium | Solved |
 | May 08 | [3342. Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | Medium | Solved |
-| May 09 | []() |  |  |
+| May 09 | [3343. Count Number of Balanced Permutations](https://leetcode.com/problems/count-number-of-balanced-permutations/) | Hard | Solved |
 | May 10 | []() |  |  |
 | May 11 | []() |  |  |
 | May 12 | []() |  |  |
@@ -44,4 +44,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 02 | 02 | 00 |
 | Medium | 05 | 05 | 00 |
-| Hard   | 01 | 01 | 00 |
+| Hard   | 02 | 02 | 00 |
