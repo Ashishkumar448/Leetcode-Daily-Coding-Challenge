@@ -17,7 +17,7 @@
 | May 11 | [1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | Easy | Solved |
 | May 12 | [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | Easy | Solved |
 | May 13 | [3335. Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/) | Medium | Solved |
-| May 14 | []() |  |  |
+| May 14 | [3337. Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/) | Hard | Solved |
 | May 15 | []() |  |  |
 | May 16 | []() |  |  |
 | May 17 | []() |  |  |
@@ -44,4 +44,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 04 | 04 | 00 |
 | Medium | 07 | 07 | 00 |
-| Hard   | 02 | 02 | 00 |
+| Hard   | 03 | 03 | 00 |
