@@ -19,7 +19,7 @@
 | May 13 | [3335. Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/) | Medium | Solved |
 | May 14 | [3337. Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/) | Hard | Solved |
 | May 15 | [2900. Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) | Easy | Solved |
-| May 16 | []() |  |  |
+| May 16 | [2901. Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/) | Medium | Solved |
 | May 17 | []() |  |  |
 | May 18 | []() |  |  |
 | May 19 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 05 | 05 | 00 |
-| Medium | 07 | 07 | 00 |
+| Medium | 08 | 08 | 00 |
 | Hard   | 03 | 03 | 00 |
