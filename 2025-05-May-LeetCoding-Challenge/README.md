@@ -21,7 +21,7 @@
 | May 15 | [2900. Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) | Easy | Solved |
 | May 16 | [2901. Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/) | Medium | Solved |
 | May 17 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Solved |
-| May 18 | []() |  |  |
+| May 18 | [1931. Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/) | Hard | Solved |
 | May 19 | []() |  |  |
 | May 20 | []() |  |  |
 | May 21 | []() |  |  |
@@ -44,4 +44,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 05 | 05 | 00 |
 | Medium | 09 | 09 | 00 |
-| Hard   | 03 | 03 | 00 |
+| Hard   | 04 | 04 | 00 |
