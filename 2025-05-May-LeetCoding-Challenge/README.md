@@ -22,7 +22,7 @@
 | May 16 | [2901. Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/) | Medium | Solved |
 | May 17 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Solved |
 | May 18 | [1931. Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/) | Hard | Solved |
-| May 19 | []() |  |  |
+| May 19 | [3024. Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | Easy | Solved |
 | May 20 | []() |  |  |
 | May 21 | []() |  |  |
 | May 22 | []() |  |  |
@@ -42,6 +42,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 05 | 05 | 00 |
+| Easy   | 06 | 06 | 00 |
 | Medium | 09 | 09 | 00 |
 | Hard   | 04 | 04 | 00 |
