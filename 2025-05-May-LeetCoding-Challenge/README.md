@@ -23,7 +23,7 @@
 | May 17 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Solved |
 | May 18 | [1931. Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/) | Hard | Solved |
 | May 19 | [3024. Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | Easy | Solved |
-| May 20 | []() |  |  |
+| May 20 | [3355. Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/) | Medium | Solved |
 | May 21 | []() |  |  |
 | May 22 | []() |  |  |
 | May 23 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 06 | 06 | 00 |
-| Medium | 09 | 09 | 00 |
+| Medium | 10 | 10 | 00 |
 | Hard   | 04 | 04 | 00 |
