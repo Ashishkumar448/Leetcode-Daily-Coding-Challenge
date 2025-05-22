@@ -25,7 +25,7 @@
 | May 19 | [3024. Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | Easy | Solved |
 | May 20 | [3355. Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/) | Medium | Solved |
 | May 21 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | Solved |
-| May 22 | []() |  |  |
+| May 22 | [3362. Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii/) | Medium | Solved |
 | May 23 | []() |  |  |
 | May 24 | []() |  |  |
 | May 25 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 06 | 06 | 00 |
-| Medium | 11 | 11 | 00 |
+| Medium | 12 | 12 | 00 |
 | Hard   | 04 | 04 | 00 |
