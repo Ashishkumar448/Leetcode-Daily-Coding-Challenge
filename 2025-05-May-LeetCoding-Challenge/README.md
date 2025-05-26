@@ -29,7 +29,7 @@
 | May 23 | [3068. Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/) | Hard | Solved |
 | May 24 | [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | Easy | Solved |
 | May 25 | [2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Medium | Solved |
-| May 26 | []() |  |  |
+| May 26 | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | Hard | Solved |
 | May 27 | []() |  |  |
 | May 28 | []() |  |  |
 | May 29 | []() |  |  |
@@ -44,4 +44,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 07 | 07 | 00 |
 | Medium | 13 | 13 | 00 |
-| Hard   | 05 | 05 | 00 |
+| Hard   | 06 | 06 | 00 |
