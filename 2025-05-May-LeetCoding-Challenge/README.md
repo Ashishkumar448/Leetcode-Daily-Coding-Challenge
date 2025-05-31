@@ -34,7 +34,7 @@
 | May 28 | [3372. Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/) | Medium | Solved |
 | May 29 | [3373. Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Hard | Solved |
 | May 30 | [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | Mddium | Solved |
-| May 31 | []() |  |  |
+| May 31 | [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | Medium | Solved |
 
 ---
 
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 08 | 08 | 00 |
-| Medium | 15 | 15 | 00 |
+| Medium | 16 | 16 | 00 |
 | Hard   | 07 | 07 | 00 |
