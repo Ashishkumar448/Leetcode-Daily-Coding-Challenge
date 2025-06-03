@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | June 01 | [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/) | Medium | Solved |
 | June 02 | [135. Candy](https://leetcode.com/problems/candy/) | Hard | Solved |
-| June 03 | []() |  |  |
+| June 03 | [1298. Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | Hard | Solved |
 | June 04 | []() |  |  |
 | June 05 | []() |  |  |
 | June 06 | []() |  |  |
@@ -43,4 +43,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 00 | 00 | 00 |
 | Medium | 01 | 01 | 00 |
-| Hard   | 01 | 01 | 00 |
+| Hard   | 02 | 02 | 00 |
