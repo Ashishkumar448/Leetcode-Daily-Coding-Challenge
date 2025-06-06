@@ -9,7 +9,7 @@
 | June 03 | [1298. Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | Hard | Solved |
 | June 04 | [3403. Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/) | Medium | Solved |
 | June 05 | [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | Medium | Solved |
-| June 06 | []() |  |  |
+| June 06 | [2434. Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium | Solved |
 | June 07 | []() |  |  |
 | June 08 | []() |  |  |
 | June 09 | []() |  |  |
@@ -42,5 +42,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 00 | 00 | 00 |
-| Medium | 03 | 03 | 00 |
+| Medium | 04 | 04 | 00 |
 | Hard   | 02 | 02 | 00 |
