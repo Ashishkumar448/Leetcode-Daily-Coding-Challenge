@@ -16,7 +16,7 @@
 | June 10 | [3442. Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | Easy | Solved |
 | June 11 | [3445. Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/) | Hard | Solved |
 | June 12 | [3423. Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy | Soolved |
-| June 13 | []() |  |  |
+| June 13 | [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | Medium | Solved |
 | June 14 | []() |  |  |
 | June 15 | []() |  |  |
 | June 16 | []() |  |  |
@@ -42,5 +42,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 06 | 06 | 00 |
+| Medium | 07 | 07 | 00 |
 | Hard   | 04 | 04 | 00 |
