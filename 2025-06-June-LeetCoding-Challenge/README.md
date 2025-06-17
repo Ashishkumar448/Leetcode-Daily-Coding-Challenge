@@ -20,7 +20,7 @@
 | June 14 | [2566. Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | Easy | Solved |
 | June 15 | [1432. Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | Medium | Solved |
 | June 16 | [2016. Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | Easy | Solved |
-| June 17 | []() |  |  |
+| June 17 | [3405. Count the Number of Arrays with K Matching Adjacent Elements](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/) | Hard | Solved |
 | June 18 | []() |  |  |
 | June 19 | []() |  |  |
 | June 20 | []() |  |  |
@@ -43,4 +43,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 04 | 04 | 00 |
 | Medium | 08 | 08 | 00 |
-| Hard   | 04 | 04 | 00 |
+| Hard   | 05 | 05 | 00 |
