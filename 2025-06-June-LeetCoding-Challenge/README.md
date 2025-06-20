@@ -23,7 +23,7 @@
 | June 17 | [3405. Count the Number of Arrays with K Matching Adjacent Elements](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/) | Hard | Solved |
 | June 18 | [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | Medium | Solved |
 | June 19 | [2294. Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) | Medium | Solved |
-| June 20 | []() |  |  |
+| June 20 | [3443. Maximum Manhattan Distance After K Changes](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/) | Medium | Solved |
 | June 21 | []() |  |  |
 | June 22 | []() |  |  |
 | June 23 | []() |  |  |
@@ -42,5 +42,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 04 | 04 | 00 |
-| Medium | 10 | 10 | 00 |
+| Medium | 11 | 11 | 00 |
 | Hard   | 05 | 05 | 00 |
