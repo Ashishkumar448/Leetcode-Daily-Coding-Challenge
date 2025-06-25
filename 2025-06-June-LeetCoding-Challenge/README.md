@@ -28,7 +28,7 @@
 | June 22 | [2138. Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) | Easy | Solved |
 | June 23 | [2081. Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/) | Hard | Solved |
 | June 24 | [2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | Easy | Solved |
-| June 25 | []() |  |  |
+| June 25 | [2040. Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/) | Hard | Solved |
 | June 26 | []() |  |  |
 | June 27 | []() |  |  |
 | June 28 | []() |  |  |
@@ -43,4 +43,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 06 | 06 | 00 |
 | Medium | 12 | 12 | 00 |
-| Hard   | 06 | 06 | 00 |
+| Hard   | 07 | 07 | 00 |
