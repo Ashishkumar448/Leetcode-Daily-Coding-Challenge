@@ -32,7 +32,7 @@
 | June 26 | [2311. Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) | Medium | Solved |
 | June 27 | [2014. Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/) | Hard | Solved |
 | June 28 | [2099. Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | Easy | Solved |
-| June 29 | []() |  |  |
+| June 29 | [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | Solved |
 | June 30 | []() |  |  |
 
 ---
@@ -42,5 +42,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 07 | 07 | 00 |
-| Medium | 13 | 13 | 00 |
+| Medium | 14 | 14 | 00 |
 | Hard   | 08 | 08 | 00 |
