@@ -4,7 +4,7 @@
 
 | Day | Problem | Level | Status |
 | --- | ------- | ----- | ------ |
-| July 01 | []() |  |  |
+| July 01 | [3330. Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/) | Easy | Solved |
 | July 02 | []() |  |  |
 | July 03 | []() |  |  |
 | July 04 | []() |  |  |
@@ -42,6 +42,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 00       | 00     | 00       |
+| Easy   | 01       | 01     | 00       |
 | Medium | 00       | 00     | 00       |
 | Hard   | 00       | 00     | 00       |
