@@ -8,7 +8,7 @@
 | July 02 | [3333. Find the Original Typed String II](https://leetcode.com/problems/find-the-original-typed-string-ii/) | Hard | Solved |
 | July 03 | [3304. Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/) | Easy | Solved |
 | July 04 | [3307. Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/) | Hard | Solved |
-| July 05 | []() |  |  |
+| July 05 | [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | Easy | Solved |
 | July 06 | []() |  |  |
 | July 07 | []() |  |  |
 | July 08 | []() |  |  |
@@ -42,6 +42,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 02 | 02 | 00 |
+| Easy   | 03 | 03 | 00 |
 | Medium | 00 | 00 | 00 |
 | Hard   | 02 | 02 | 00 |
