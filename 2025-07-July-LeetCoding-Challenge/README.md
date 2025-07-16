@@ -19,7 +19,7 @@
 | July 13 | [2410. Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | Medium | Solved |
 | July 14 | [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy | Solved |
 | July 15 | [3136. Valid Word](https://leetcode.com/problems/valid-word/) | Easy | Solved |
-| July 16 | []() |  |  |
+| July 16 | [3201. Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) | Medium | Solved |
 | July 17 | []() |  |  |
 | July 18 | []() |  |  |
 | July 19 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 05 | 05 | 00 |
-| Medium | 05 | 05 | 00 |
+| Medium | 06 | 06 | 00 |
 | Hard   | 05 | 05 | 00 |
