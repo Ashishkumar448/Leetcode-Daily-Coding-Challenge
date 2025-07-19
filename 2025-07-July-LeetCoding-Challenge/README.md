@@ -22,7 +22,7 @@
 | July 16 | [3201. Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) | Medium | Solved |
 | July 17 | [3202. Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/) | Medium | Solved |
 | July 18 | [2163. Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/) | Hard | Soolved |
-| July 19 | []() |  |  |
+| July 19 | [1233. Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | Medium | Solved |
 | July 20 | []() |  |  |
 | July 21 | []() |  |  |
 | July 22 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 05 | 05 | 00 |
-| Medium | 07 | 07 | 00 |
+| Medium | 08 | 08 | 00 |
 | Hard   | 06 | 06 | 00 |
