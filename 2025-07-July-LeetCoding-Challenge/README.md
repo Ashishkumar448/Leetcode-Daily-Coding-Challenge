@@ -25,8 +25,8 @@
 | July 19 | [1233. Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | Medium | Solved |
 | July 20 | [1948. Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/) | Hard | Solved |
 | July 21 | [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | Easy | Solved |
-| July 22 | [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings) | Medium | Solved |
-| July 23 | []() |  |  |
+| July 22 | [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | Medium | Solved |
+| July 23 | [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings) | Medium | Solved |
 | July 24 | []() |  |  |
 | July 25 | []() |  |  |
 | July 26 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 06 | 06 | 00 |
-| Medium | 09 | 09 | 00 |
+| Medium | 10 | 10 | 00 |
 | Hard   | 07 | 07 | 00 |
