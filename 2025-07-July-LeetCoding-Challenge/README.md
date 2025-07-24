@@ -27,7 +27,7 @@
 | July 21 | [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | Easy | Solved |
 | July 22 | [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | Medium | Solved |
 | July 23 | [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings) | Medium | Solved |
-| July 24 | []() |  |  |
+| July 24 | [2322. Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | Hard | Solved |
 | July 25 | []() |  |  |
 | July 26 | []() |  |  |
 | July 27 | []() |  |  |
@@ -44,4 +44,4 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 06 | 06 | 00 |
 | Medium | 10 | 10 | 00 |
-| Hard   | 07 | 07 | 00 |
+| Hard   | 08 | 08 | 00 |
