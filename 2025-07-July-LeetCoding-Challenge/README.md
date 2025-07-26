@@ -29,7 +29,7 @@
 | July 23 | [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings) | Medium | Solved |
 | July 24 | [2322. Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | Hard | Solved |
 | July 25 | [3487. Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | Easy | Solved |
-| July 26 | []() |  |  |
+| July 26 | [3480. Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/) | Hard | Solved |
 | July 27 | []() |  |  |
 | July 28 | []() |  |  |
 | July 29 | []() |  |  |
@@ -44,4 +44,4 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 07 | 07 | 00 |
 | Medium | 10 | 10 | 00 |
-| Hard   | 08 | 08 | 00 |
+| Hard   | 09 | 09 | 00 |
