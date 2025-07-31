@@ -34,7 +34,7 @@
 | July 28 | [2044. Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | Medium | Solved |
 | July 29 | [2411. Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) | Medium | Solved |
 | July 30 | [2419. Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | Medium | Solved |
-| July 31 | []() |  |  |
+| July 31 | [898. Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/) | Medium | Solved |
 
 ---
 
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 08 | 08 | 00 |
-| Medium | 13 | 13 | 00 |
+| Medium | 14 | 14 | 00 |
 | Hard   | 09 | 09 | 00 |
