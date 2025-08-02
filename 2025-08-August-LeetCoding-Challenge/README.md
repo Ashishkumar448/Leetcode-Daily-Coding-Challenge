@@ -5,7 +5,7 @@
 | Day | Problem | Level | Status |
 | --- | ------- | ----- | ------ |
 | August 01 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | Solved |
-| August 02 | []() |  |  |
+| August 02 | [2561. Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/) | Hard | Solved |
 | August 03 | []() |  |  |
 | August 04 | []() |  |  |
 | August 05 | []() |  |  |
@@ -43,6 +43,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 01 | 01 | 00 |
-| Medium | 00 | 00 | 00 |
+| Medium | 01 | 01 | 00 |
 | Hard   | 00 | 00 | 00 |
 
