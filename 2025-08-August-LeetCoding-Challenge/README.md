@@ -10,7 +10,7 @@
 | August 04 | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | Solved |
 | August 05 | [3477. Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | Easy | Solved |
 | August 06 | [3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/) | Medium | Solved |
-| August 07 | []() |  |  |
+| August 07 | [3363. Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/) | Hard | Solved |
 | August 08 | []() |  |  |
 | August 09 | []() |  |  |
 | August 10 | []() |  |  |
@@ -44,5 +44,5 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 02 | 02 | 00 |
 | Medium | 02 | 02 | 00 |
-| Hard   | 02 | 02 | 00 |
+| Hard   | 03 | 03 | 00 |
 
