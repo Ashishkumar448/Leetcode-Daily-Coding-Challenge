@@ -11,7 +11,7 @@
 | August 05 | [3477. Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | Easy | Solved |
 | August 06 | [3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/) | Medium | Solved |
 | August 07 | [3363. Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/) | Hard | Solved |
-| August 08 | []() |  |  |
+| August 08 | [808. Soup Servings](https://leetcode.com/problems/soup-servings/) | Medium | Solved |
 | August 09 | []() |  |  |
 | August 10 | []() |  |  |
 | August 11 | []() |  |  |
@@ -43,6 +43,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 02 | 02 | 00 |
+| Medium | 03 | 03 | 00 |
 | Hard   | 03 | 03 | 00 |
 
