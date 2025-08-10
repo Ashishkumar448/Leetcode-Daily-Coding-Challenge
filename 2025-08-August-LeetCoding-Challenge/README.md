@@ -12,7 +12,7 @@
 | August 06 | [3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/) | Medium | Solved |
 | August 07 | [3363. Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/) | Hard | Solved |
 | August 08 | [808. Soup Servings](https://leetcode.com/problems/soup-servings/) | Medium | Solved |
-| August 09 | []() |  |  |
+| August 09 | [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | Medium | Solved |
 | August 10 | []() |  |  |
 | August 11 | []() |  |  |
 | August 12 | []() |  |  |
@@ -43,6 +43,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 03 | 03 | 00 |
+| Medium | 04 | 04 | 00 |
 | Hard   | 03 | 03 | 00 |
 
