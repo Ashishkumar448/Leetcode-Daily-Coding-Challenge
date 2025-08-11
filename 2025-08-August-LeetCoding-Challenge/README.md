@@ -14,7 +14,7 @@
 | August 08 | [808. Soup Servings](https://leetcode.com/problems/soup-servings/) | Medium | Solved |
 | August 09 | []() |  |  |
 | August 10 | [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | Medium | Solved |
-| August 11 | []() |  |  |
+| August 11 | [2438. Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/) | Medium | Solved |
 | August 12 | []() |  |  |
 | August 13 | []() |  |  |
 | August 14 | []() |  |  |
@@ -43,6 +43,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 04 | 04 | 00 |
+| Medium | 05 | 05 | 00 |
 | Hard   | 03 | 03 | 00 |
 
