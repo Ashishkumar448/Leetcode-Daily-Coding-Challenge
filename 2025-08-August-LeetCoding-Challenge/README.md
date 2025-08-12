@@ -15,7 +15,7 @@
 | August 09 | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | Solved |
 | August 10 | [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | Medium | Solved |
 | August 11 | [2438. Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/) | Medium | Solved |
-| August 12 | []() |  |  |
+| August 12 | [2787. Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | Medium | Solved |
 | August 13 | []() |  |  |
 | August 14 | []() |  |  |
 | August 15 | []() |  |  |
@@ -43,6 +43,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 03 | 03 | 00 |
-| Medium | 05 | 05 | 00 |
+| Medium | 06 | 06 | 00 |
 | Hard   | 03 | 03 | 00 |
 
