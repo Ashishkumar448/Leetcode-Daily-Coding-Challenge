@@ -17,7 +17,7 @@
 | August 11 | [2438. Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/) | Medium | Solved |
 | August 12 | [2787. Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | Medium | Solved |
 | August 13 | [326. Power of Three](https://leetcode.com/problems/power-of-three/) | Easy | Solved |
-| August 14 | []() |  |  |
+| August 14 | [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | Easy | Solved |
 | August 15 | []() |  |  |
 | August 16 | []() |  |  |
 | August 17 | []() |  |  |
@@ -42,7 +42,7 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 04 | 04 | 00 |
+| Easy   | 05 | 05 | 00 |
 | Medium | 06 | 06 | 00 |
 | Hard   | 03 | 03 | 00 |
 
