@@ -19,7 +19,7 @@
 | August 13 | [326. Power of Three](https://leetcode.com/problems/power-of-three/) | Easy | Solved |
 | August 14 | [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | Easy | Solved |
 | August 15 | [342. Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | Solved |
-| August 16 | []() |  |  |
+| August 16 | [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | Easy | Solved |
 | August 17 | []() |  |  |
 | August 18 | []() |  |  |
 | August 19 | []() |  |  |
@@ -42,7 +42,7 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 06 | 06 | 00 |
+| Easy   | 07 | 07 | 00 |
 | Medium | 06 | 06 | 00 |
 | Hard   | 03 | 03 | 00 |
 
