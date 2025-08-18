@@ -21,7 +21,7 @@
 | August 15 | [342. Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | Solved |
 | August 16 | [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | Easy | Solved |
 | August 17 | [837. New 21 Game](https://leetcode.com/problems/new-21-game/) | Medium | Solved |
-| August 18 | []() |  |  |
+| August 18 | [679. 24 Game](https://leetcode.com/problems/24-game/) | Hard | Solved |
 | August 19 | []() |  |  |
 | August 20 | []() |  |  |
 | August 21 | []() |  |  |
@@ -44,5 +44,5 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 07 | 07 | 00 |
 | Medium | 07 | 07 | 00 |
-| Hard   | 03 | 03 | 00 |
+| Hard   | 04 | 04 | 00 |
 
