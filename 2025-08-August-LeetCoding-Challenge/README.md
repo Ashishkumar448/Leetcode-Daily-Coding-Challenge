@@ -22,7 +22,7 @@
 | August 16 | [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | Easy | Solved |
 | August 17 | [837. New 21 Game](https://leetcode.com/problems/new-21-game/) | Medium | Solved |
 | August 18 | [679. 24 Game](https://leetcode.com/problems/24-game/) | Hard | Solved |
-| August 19 | []() |  |  |
+| August 19 | [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | Medium | Solved |
 | August 20 | []() |  |  |
 | August 21 | []() |  |  |
 | August 22 | []() |  |  |
@@ -43,6 +43,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 07 | 07 | 00 |
-| Medium | 07 | 07 | 00 |
+| Medium | 08 | 08 | 00 |
 | Hard   | 04 | 04 | 00 |
 
