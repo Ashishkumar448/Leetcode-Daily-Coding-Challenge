@@ -23,7 +23,7 @@
 | August 17 | [837. New 21 Game](https://leetcode.com/problems/new-21-game/) | Medium | Solved |
 | August 18 | [679. 24 Game](https://leetcode.com/problems/24-game/) | Hard | Solved |
 | August 19 | [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | Medium | Solved |
-| August 20 | []() |  |  |
+| August 20 | [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium | Solved |
 | August 21 | []() |  |  |
 | August 22 | []() |  |  |
 | August 23 | []() |  |  |
@@ -43,6 +43,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 07 | 07 | 00 |
-| Medium | 08 | 08 | 00 |
+| Medium | 09 | 09 | 00 |
 | Hard   | 04 | 04 | 00 |
 
