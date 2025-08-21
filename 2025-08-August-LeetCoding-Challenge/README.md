@@ -24,7 +24,7 @@
 | August 18 | [679. 24 Game](https://leetcode.com/problems/24-game/) | Hard | Solved |
 | August 19 | [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | Medium | Solved |
 | August 20 | [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium | Solved |
-| August 21 | []() |  |  |
+| August 21 | [1504. Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/) | Medium | Solved |
 | August 22 | []() |  |  |
 | August 23 | []() |  |  |
 | August 24 | []() |  |  |
@@ -43,6 +43,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 07 | 07 | 00 |
-| Medium | 09 | 09 | 00 |
+| Medium | 10 | 10 | 00 |
 | Hard   | 04 | 04 | 00 |
 
