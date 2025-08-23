@@ -26,7 +26,7 @@
 | August 20 | [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium | Solved |
 | August 21 | [1504. Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/) | Medium | Solved |
 | August 22 | [3195. Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/) | Medium | Solved |
-| August 23 | []() |  |  |
+| August 23 | [3197. Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | Hard | Solved |
 | August 24 | []() |  |  |
 | August 25 | []() |  |  |
 | August 26 | []() |  |  |
@@ -44,5 +44,5 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 07 | 07 | 00 |
 | Medium | 11 | 11 | 00 |
-| Hard   | 04 | 04 | 00 |
+| Hard   | 05 | 05 | 00 |
 
