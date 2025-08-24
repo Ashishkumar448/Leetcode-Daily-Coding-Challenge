@@ -27,7 +27,7 @@
 | August 21 | [1504. Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/) | Medium | Solved |
 | August 22 | [3195. Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/) | Medium | Solved |
 | August 23 | [3197. Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | Hard | Solved |
-| August 24 | []() |  |  |
+| August 24 | [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | Medium | Solved |
 | August 25 | []() |  |  |
 | August 26 | []() |  |  |
 | August 27 | []() |  |  |
@@ -43,6 +43,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 07 | 07 | 00 |
-| Medium | 11 | 11 | 00 |
+| Medium | 12 | 12 | 00 |
 | Hard   | 05 | 05 | 00 |
 
