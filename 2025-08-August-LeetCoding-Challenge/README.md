@@ -28,7 +28,7 @@
 | August 22 | [3195. Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/) | Medium | Solved |
 | August 23 | [3197. Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | Hard | Solved |
 | August 24 | [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | Medium | Solved |
-| August 25 | []() |  |  |
+| August 25 | [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | Medium | Solved |
 | August 26 | []() |  |  |
 | August 27 | []() |  |  |
 | August 28 | []() |  |  |
@@ -43,6 +43,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 07 | 07 | 00 |
-| Medium | 12 | 12 | 00 |
+| Medium | 13 | 13 | 00 |
 | Hard   | 05 | 05 | 00 |
 
