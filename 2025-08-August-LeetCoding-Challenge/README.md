@@ -31,7 +31,7 @@
 | August 25 | [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | Medium | Solved |
 | August 26 | [3000. Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | Easy | Solved |
 | August 27 | [3459. Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/) | Hard | Solved |
-| August 28 | []() |  |  |
+| August 28 | [3446. Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) | Medium | Solved |
 | August 29 | []() |  |  |
 | August 30 | []() |  |  |
 | August 31 | []() |  |  |
@@ -43,6 +43,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 08 | 08 | 00 |
-| Medium | 13 | 13 | 00 |
+| Medium | 14 | 14 | 00 |
 | Hard   | 06 | 06 | 00 |
 
