@@ -33,7 +33,7 @@
 | August 27 | [3459. Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/) | Hard | Solved |
 | August 28 | [3446. Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) | Medium | Solved |
 | August 29 | [3021. Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) | Medium | Solved |
-| August 30 | []() |  |  |
+| August 30 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | Solved |
 | August 31 | []() |  |  |
 
 ---
@@ -43,6 +43,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 08 | 08 | 00 |
-| Medium | 15 | 15 | 00 |
+| Medium | 16 | 16 | 00 |
 | Hard   | 06 | 06 | 00 |
 
