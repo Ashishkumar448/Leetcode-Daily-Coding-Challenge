@@ -34,7 +34,7 @@
 | August 28 | [3446. Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) | Medium | Solved |
 | August 29 | [3021. Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) | Medium | Solved |
 | August 30 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | Solved |
-| August 31 | []() |  |  |
+| August 31 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | Solved |
 
 ---
 
@@ -44,5 +44,5 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 08 | 08 | 00 |
 | Medium | 16 | 16 | 00 |
-| Hard   | 06 | 06 | 00 |
+| Hard   | 07 | 07 | 00 |
 
