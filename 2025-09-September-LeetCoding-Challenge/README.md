@@ -5,7 +5,7 @@
 | Day | Problem | Level | Status |
 | --- | ------- | ----- | ------ |
 | September 01 | []() |  |  |
-| September 02 | []() |  |  |
+| September 02 | [3025. Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | Medium | Solved |
 | September 03 | []() |  |  |
 | September 04 | []() |  |  |
 | September 05 | []() |  |  |
@@ -42,6 +42,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 00 | 00 | 00 |
-| Medium | 00 | 00 | 00 |
+| Medium | 01 | 01 | 00 |
 | Hard   | 00 | 00 | 00 |
 
