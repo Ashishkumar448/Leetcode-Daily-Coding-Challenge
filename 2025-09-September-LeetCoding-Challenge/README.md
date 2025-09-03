@@ -6,7 +6,7 @@
 | --- | ------- | ----- | ------ |
 | September 01 | [1792. Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | Medium | Solved |
 | September 02 | [3025. Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | Medium | Solved |
-| September 03 | []() |  |  |
+| September 03 | [3027. Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | Hard | Solved |
 | September 04 | []() |  |  |
 | September 05 | []() |  |  |
 | September 06 | []() |  |  |
@@ -43,5 +43,5 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 00 | 00 | 00 |
 | Medium | 02 | 02 | 00 |
-| Hard   | 00 | 00 | 00 |
+| Hard   | 01 | 01 | 00 |
 
