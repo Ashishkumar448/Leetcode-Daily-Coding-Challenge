@@ -8,7 +8,7 @@
 | September 02 | [3025. Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | Medium | Solved |
 | September 03 | [3027. Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | Hard | Solved |
 | September 04 | [3516. Find Closest Person](https://leetcode.com/problems/find-closest-person/) | Easy | Solved |
-| September 05 | []() |  |  |
+| September 05 | [2749. Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | Medium | Solved |
 | September 06 | []() |  |  |
 | September 07 | []() |  |  |
 | September 08 | []() |  |  |
@@ -42,6 +42,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 01 | 01 | 00 |
-| Medium | 02 | 02 | 00 |
+| Medium | 03 | 03 | 00 |
 | Hard   | 01 | 01 | 00 |
 
