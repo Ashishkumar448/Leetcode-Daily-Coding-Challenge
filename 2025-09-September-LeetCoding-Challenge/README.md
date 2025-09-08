@@ -11,7 +11,7 @@
 | September 05 | [2749. Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | Medium | Solved |
 | September 06 | [3495. Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/) | Hard | Solved |
 | September 07 | []() |  |  |
-| September 08 | []() |  |  |
+| September 08 | [1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) |Easy | Solved |
 | September 09 | []() |  |  |
 | September 10 | []() |  |  |
 | September 11 | []() |  |  |
