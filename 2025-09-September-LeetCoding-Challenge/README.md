@@ -12,7 +12,7 @@
 | September 06 | [3495. Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/) | Hard | Solved |
 | September 07 | [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | Easy | Solved |
 | September 08 | [1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) |Easy | Solved |
-| September 09 | []() |  |  |
+| September 09 | [2327. Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | Medium | Solved |
 | September 10 | []() |  |  |
 | September 11 | []() |  |  |
 | September 12 | []() |  |  |
@@ -41,7 +41,7 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 01 | 01 | 00 |
-| Medium | 03 | 03 | 00 |
+| Easy   | 03 | 03 | 00 |
+| Medium | 04 | 04 | 00 |
 | Hard   | 02 | 02 | 00 |
 
