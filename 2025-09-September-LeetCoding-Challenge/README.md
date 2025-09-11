@@ -14,7 +14,7 @@
 | September 08 | [1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) |Easy | Solved |
 | September 09 | [2327. Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | Medium | Solved |
 | September 10 | [1733. Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | Medium | Solved |
-| September 11 | []() |  |  |
+| September 11 | [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | Medium | Solved |
 | September 12 | []() |  |  |
 | September 13 | []() |  |  |
 | September 14 | []() |  |  |
@@ -42,6 +42,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 03 | 03 | 00 |
-| Medium | 05 | 05 | 00 |
+| Medium | 06 | 06 | 00 |
 | Hard   | 02 | 02 | 00 |
 
