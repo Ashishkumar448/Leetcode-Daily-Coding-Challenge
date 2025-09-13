@@ -16,7 +16,7 @@
 | September 10 | [1733. Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | Medium | Solved |
 | September 11 | [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | Medium | Solved |
 | September 12 | [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) | Medium | Solved |
-| September 13 | []() |  |  |
+| September 13 | [3541. Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | Easy | Solved |
 | September 14 | []() |  |  |
 | September 15 | []() |  |  |
 | September 16 | []() |  |  |
@@ -41,7 +41,7 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 03 | 03 | 00 |
+| Easy   | 04 | 04 | 00 |
 | Medium | 07 | 07 | 00 |
 | Hard   | 02 | 02 | 00 |
 
