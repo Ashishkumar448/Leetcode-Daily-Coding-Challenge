@@ -18,7 +18,7 @@
 | September 12 | [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) | Medium | Solved |
 | September 13 | [3541. Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | Easy | Solved |
 | September 14 | [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | Medium | Solved |
-| September 15 | []() |  |  |
+| September 15 | [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | Easy | Solved |
 | September 16 | []() |  |  |
 | September 17 | []() |  |  |
 | September 18 | []() |  |  |
@@ -41,7 +41,7 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 04 | 04 | 00 |
+| Easy   | 05 | 05 | 00 |
 | Medium | 08 | 08 | 00 |
 | Hard   | 02 | 02 | 00 |
 
