@@ -19,7 +19,7 @@
 | September 13 | [3541. Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | Easy | Solved |
 | September 14 | [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | Medium | Solved |
 | September 15 | [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | Easy | Solved |
-| September 16 | []() |  |  |
+| September 16 | [2197. Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/) | Hard | Solved |
 | September 17 | []() |  |  |
 | September 18 | []() |  |  |
 | September 19 | []() |  |  |
@@ -43,5 +43,5 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 05 | 05 | 00 |
 | Medium | 08 | 08 | 00 |
-| Hard   | 02 | 02 | 00 |
+| Hard   | 03 | 03 | 00 |
 
