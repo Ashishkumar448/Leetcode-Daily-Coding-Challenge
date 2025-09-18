@@ -21,7 +21,7 @@
 | September 15 | [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | Easy | Solved |
 | September 16 | [2197. Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/) | Hard | Solved |
 | September 17 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | Medium | Solution |
-| September 18 | []() |  |  |
+| September 18 | [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/description/) | Medium | Solved |
 | September 19 | []() |  |  |
 | September 20 | []() |  |  |
 | September 21 | []() |  |  |
@@ -42,6 +42,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 05 | 05 | 00 |
-| Medium | 09 | 09 | 00 |
+| Medium | 10 | 10 | 00 |
 | Hard   | 03 | 03 | 00 |
 
