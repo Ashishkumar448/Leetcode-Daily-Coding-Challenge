@@ -24,7 +24,7 @@
 | September 18 | [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/description/) | Medium | Solved |
 | September 19 | [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | Medium | Solved |
 | September 20 | [3508. Implement Router](https://leetcode.com/problems/implement-router/) | Medium | Solved |
-| September 21 | []() |  |  |
+| September 21 | [1912. Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) | Hard | Solved |
 | September 22 | []() |  |  |
 | September 23 | []() |  |  |
 | September 24 | []() |  |  |
@@ -43,5 +43,5 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 05 | 05 | 00 |
 | Medium | 12 | 12 | 00 |
-| Hard   | 03 | 03 | 00 |
+| Hard   | 04 | 04 | 00 |
 
