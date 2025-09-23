@@ -26,7 +26,7 @@
 | September 20 | [3508. Implement Router](https://leetcode.com/problems/implement-router/) | Medium | Solved |
 | September 21 | [1912. Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) | Hard | Solved |
 | September 22 | [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | Easy | Solved |
-| September 23 | []() |  |  |
+| September 23 | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | Solved |
 | September 24 | []() |  |  |
 | September 25 | []() |  |  |
 | September 26 | []() |  |  |
@@ -42,6 +42,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 06 | 06 | 00 |
-| Medium | 12 | 12 | 00 |
+| Medium | 13 | 13 | 00 |
 | Hard   | 04 | 04 | 00 |
 
