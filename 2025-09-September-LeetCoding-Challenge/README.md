@@ -28,7 +28,7 @@
 | September 22 | [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | Easy | Solved |
 | September 23 | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | Solved |
 | September 24 | [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | Medium | Solved |
-| September 25 | []() |  |  |
+| September 25 | [120. Triangle](https://leetcode.com/problems/triangle/) | Medium | Solved |
 | September 26 | []() |  |  |
 | September 27 | []() |  |  |
 | September 28 | []() |  |  |
@@ -42,6 +42,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 06 | 06 | 00 |
-| Medium | 14 | 14 | 00 |
+| Medium | 15 | 15 | 00 |
 | Hard   | 04 | 04 | 00 |
 
