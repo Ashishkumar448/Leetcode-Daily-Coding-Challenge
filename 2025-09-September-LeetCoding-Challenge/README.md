@@ -29,7 +29,7 @@
 | September 23 | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | Solved |
 | September 24 | [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | Medium | Solved |
 | September 25 | [120. Triangle](https://leetcode.com/problems/triangle/) | Medium | Solved |
-| September 26 | []() |  |  |
+| September 26 | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | Medium | Solved |
 | September 27 | []() |  |  |
 | September 28 | []() |  |  |
 | September 29 | []() |  |  |
@@ -42,6 +42,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 06 | 06 | 00 |
-| Medium | 15 | 15 | 00 |
+| Medium | 16 | 16 | 00 |
 | Hard   | 04 | 04 | 00 |
 
