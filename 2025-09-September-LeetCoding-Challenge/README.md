@@ -31,7 +31,7 @@
 | September 25 | [120. Triangle](https://leetcode.com/problems/triangle/) | Medium | Solved |
 | September 26 | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | Medium | Solved |
 | September 27 | [812. Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | Easy | Solved |
-| September 28 | []() |  |  |
+| September 28 | [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | Easy | Solved |
 | September 29 | []() |  |  |
 | September 30 | []() |  |  |
 
@@ -41,7 +41,7 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 07 | 07 | 00 |
+| Easy   | 08 | 08 | 00 |
 | Medium | 16 | 16 | 00 |
 | Hard   | 04 | 04 | 00 |
 
