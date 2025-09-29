@@ -32,7 +32,7 @@
 | September 26 | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | Medium | Solved |
 | September 27 | [812. Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | Easy | Solved |
 | September 28 | [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | Easy | Solved |
-| September 29 | []() |  |  |
+| September 29 | [1039. Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) | Medium | Solved |
 | September 30 | []() |  |  |
 
 ---
@@ -42,6 +42,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 08 | 08 | 00 |
-| Medium | 16 | 16 | 00 |
+| Medium | 17 | 17 | 00 |
 | Hard   | 04 | 04 | 00 |
 
