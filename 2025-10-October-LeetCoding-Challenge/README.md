@@ -5,7 +5,7 @@
 | Day | Problem | Level | Status |
 | --- | ------- | ----- | ------ |
 | October 01 | [1518. Water Bottles](https://leetcode.com/problems/water-bottles/) | Easy | Solved |
-| October 02 | []() |  |  |
+| October 02 | [3100. Water Bottles II](https://leetcode.com/problems/water-bottles-ii/) | Medium | Solved |
 | October 03 | []() |  |  |
 | October 04 | []() |  |  |
 | October 05 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 01 | 01 | 00 |
-| Medium | 00 | 00 | 00 |
+| Medium | 01 | 01 | 00 |
 | Hard   | 00 | 00 | 00 |
