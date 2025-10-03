@@ -6,7 +6,7 @@
 | --- | ------- | ----- | ------ |
 | October 01 | [1518. Water Bottles](https://leetcode.com/problems/water-bottles/) | Easy | Solved |
 | October 02 | [3100. Water Bottles II](https://leetcode.com/problems/water-bottles-ii/) | Medium | Solved |
-| October 03 | []() |  |  |
+| October 03 | [407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | Hard | Solved |
 | October 04 | []() |  |  |
 | October 05 | []() |  |  |
 | October 06 | []() |  |  |
@@ -44,4 +44,4 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 01 | 01 | 00 |
 | Medium | 01 | 01 | 00 |
-| Hard   | 00 | 00 | 00 |
+| Hard   | 01 | 01 | 00 |
