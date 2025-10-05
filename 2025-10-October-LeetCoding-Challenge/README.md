@@ -8,7 +8,7 @@
 | October 02 | [3100. Water Bottles II](https://leetcode.com/problems/water-bottles-ii/) | Medium | Solved |
 | October 03 | [407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | Hard | Solved |
 | October 04 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Solved |
-| October 05 | []() |  |  |
+| October 05 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium | Solved |
 | October 06 | []() |  |  |
 | October 07 | []() |  |  |
 | October 08 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 01 | 01 | 00 |
-| Medium | 02 | 02 | 00 |
+| Medium | 03 | 03 | 00 |
 | Hard   | 01 | 01 | 00 |
