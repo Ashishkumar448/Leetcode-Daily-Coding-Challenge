@@ -10,7 +10,7 @@
 | October 04 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Solved |
 | October 05 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium | Solved |
 | October 06 | [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | Solved |
-| October 07 | []() |  |  |
+| October 07 | [1488. Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | Medium | Solved |
 | October 08 | []() |  |  |
 | October 09 | []() |  |  |
 | October 10 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 01 | 01 | 00 |
-| Medium | 03 | 03 | 00 |
+| Medium | 04 | 04 | 00 |
 | Hard   | 02 | 02 | 00 |
