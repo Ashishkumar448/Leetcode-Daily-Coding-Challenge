@@ -12,7 +12,7 @@
 | October 06 | [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | Solved |
 | October 07 | [1488. Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | Medium | Solved |
 | October 08 | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | Medium | Solved |
-| October 09 | []() |  |  |
+| October 09 | [3494. Find the Minimum Amount of Time to Brew Potions](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/) | Medium | Solved |
 | October 10 | []() |  |  |
 | October 11 | []() |  |  |
 | October 12 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 01 | 01 | 00 |
-| Medium | 05 | 05 | 00 |
+| Medium | 06 | 06 | 00 |
 | Hard   | 02 | 02 | 00 |
