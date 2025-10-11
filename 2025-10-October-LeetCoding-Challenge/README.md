@@ -14,7 +14,7 @@
 | October 08 | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | Medium | Solved |
 | October 09 | [3494. Find the Minimum Amount of Time to Brew Potions](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/) | Medium | Solved |
 | October 10 | [3147. Taking Maximum Energy From the Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/) | Medium | Solved |
-| October 11 | []() |  |  |
+| October 11 | [3186. Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) | Medium | Solved |
 | October 12 | []() |  |  |
 | October 13 | []() |  |  |
 | October 14 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 01 | 01 | 00 |
-| Medium | 07 | 07 | 00 |
+| Medium | 08 | 08 | 00 |
 | Hard   | 02 | 02 | 00 |
