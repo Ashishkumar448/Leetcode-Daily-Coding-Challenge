@@ -19,7 +19,7 @@
 | October 13 | [2273. Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/) | Easy | Solved |
 | October 14 | [3349. Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | Easy | Solved |
 | October 15 | [3350. Adjacent Increasing Subarrays Detection II](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/) | Mediuum | Solved |
-| October 16 | []() |  |  |
+| October 16 | [2598. Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) | Medium | Solved |
 | October 17 | []() |  |  |
 | October 18 | []() |  |  |
 | October 19 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 03 | 03 | 00 |
-| Medium | 09 | 10 | 00 |
+| Medium | 10 | 10 | 00 |
 | Hard   | 03 | 03 | 00 |
