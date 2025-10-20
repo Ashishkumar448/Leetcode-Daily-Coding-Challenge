@@ -23,7 +23,7 @@
 | October 17 | [3003. Maximize the Number of Partitions After Operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/) | Hard | Solved |
 | October 18 | [3397. Maximum Number of Distinct Elements After Operations](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/) | Medium | Solved |
 | October 19 | [1625. Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | Medium | Solved |
-| October 20 | []() |  |  |
+| October 20 | [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | Medium | Solved |
 | October 21 | []() |  |  |
 | October 22 | []() |  |  |
 | October 23 | []() |  |  |
@@ -42,6 +42,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 03 | 03 | 00 |
+| Easy   | 04 | 04 | 00 |
 | Medium | 12 | 12 | 00 |
 | Hard   | 04 | 04 | 00 |
