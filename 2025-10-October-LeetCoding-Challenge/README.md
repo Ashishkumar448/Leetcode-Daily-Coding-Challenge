@@ -27,7 +27,7 @@
 | October 21 | [3346. Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/) | Medium | Solved |
 | October 22 | []() |  |  |
 | October 23 | []() |  |  |
-| October 24 | []() |  |  |
+| October 24 | [2048. Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | Medium | Solved |
 | October 25 | []() |  |  |
 | October 26 | []() |  |  |
 | October 27 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 04 | 04 | 00 |
-| Medium | 13 | 13 | 00 |
+| Medium | 14 | 14 | 00 |
 | Hard   | 04 | 04 | 00 |
