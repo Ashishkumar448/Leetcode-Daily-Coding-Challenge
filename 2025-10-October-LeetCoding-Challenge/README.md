@@ -25,7 +25,7 @@
 | October 19 | [1625. Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | Medium | Solved |
 | October 20 | [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | Medium | Solved |
 | October 21 | [3346. Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/) | Medium | Solved |
-| October 22 | []() |  |  |
+| October 22 | [3347. Maximum Frequency of an Element After Performing Operations II](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard | Solved |
 | October 23 | [3461. Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) | Easy | Solved |
 | October 24 | [2048. Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | Medium | Solved |
 | October 25 | []() |  |  |
@@ -44,4 +44,4 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 05 | 05 | 00 |
 | Medium | 14 | 14 | 00 |
-| Hard   | 04 | 04 | 00 |
+| Hard   | 05 | 05 | 00 |
