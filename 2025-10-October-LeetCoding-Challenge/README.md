@@ -29,7 +29,7 @@
 | October 23 | [3461. Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) | Easy | Solved |
 | October 24 | [2048. Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | Medium | Solved |
 | October 25 | [1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | Easy | Solved |
-| October 26 | []() |  |  |
+| October 26 | [2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | Medium | Solved |
 | October 27 | []() |  |  |
 | October 28 | []() |  |  |
 | October 29 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 06 | 06 | 00 |
-| Medium | 14 | 14 | 00 |
+| Medium | 15 | 15 | 00 |
 | Hard   | 05 | 05 | 00 |
