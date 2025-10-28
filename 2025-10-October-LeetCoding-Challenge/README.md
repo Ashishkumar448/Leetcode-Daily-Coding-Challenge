@@ -31,7 +31,7 @@
 | October 25 | [1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | Easy | Solved |
 | October 26 | [2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | Medium | Solved |
 | October 27 | [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | Medium | Solved |
-| October 28 | []() |  |  |
+| October 28 | [3354. Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/) | Easy | Solved |
 | October 29 | []() |  |  |
 | October 30 | []() |  |  |
 | October 31 | []() |  |  |
@@ -42,6 +42,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 06 | 06 | 00 |
+| Easy   | 07 | 07 | 00 |
 | Medium | 16 | 16 | 00 |
 | Hard   | 05 | 05 | 00 |
