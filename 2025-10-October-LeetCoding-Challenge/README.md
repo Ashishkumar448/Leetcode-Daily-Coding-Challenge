@@ -32,7 +32,7 @@
 | October 26 | [2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | Medium | Solved |
 | October 27 | [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | Medium | Solved |
 | October 28 | [3354. Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/) | Easy | Solved |
-| October 29 | []() |  |  |
+| October 29 | [3370. Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | Easy | Solved |
 | October 30 | []() |  |  |
 | October 31 | []() |  |  |
 
@@ -42,6 +42,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 07 | 07 | 00 |
+| Easy   | 08 | 08 | 00 |
 | Medium | 16 | 16 | 00 |
 | Hard   | 05 | 05 | 00 |
