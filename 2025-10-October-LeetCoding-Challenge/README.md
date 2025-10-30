@@ -33,7 +33,7 @@
 | October 27 | [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | Medium | Solved |
 | October 28 | [3354. Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/) | Easy | Solved |
 | October 29 | [3370. Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | Easy | Solved |
-| October 30 | []() |  |  |
+| October 30 | [1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard | Solved |
 | October 31 | []() |  |  |
 
 ---
@@ -44,4 +44,4 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 08 | 08 | 00 |
 | Medium | 16 | 16 | 00 |
-| Hard   | 05 | 05 | 00 |
+| Hard   | 06 | 06 | 00 |
