@@ -34,7 +34,7 @@
 | October 28 | [3354. Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/) | Easy | Solved |
 | October 29 | [3370. Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | Easy | Solved |
 | October 30 | [1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard | Solved |
-| October 31 | []() |  |  |
+| October 31 | [3289. The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | Easy | Solved |
 
 ---
 
@@ -42,6 +42,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 08 | 08 | 00 |
+| Easy   | 09 | 09 | 00 |
 | Medium | 16 | 16 | 00 |
 | Hard   | 06 | 06 | 00 |
