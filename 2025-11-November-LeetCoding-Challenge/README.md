@@ -5,7 +5,7 @@
 | Day | Problem | Level | Status |
 | --- | ------- | ----- | ------ |
 | November 01 | [3217. Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | Medium | Solved |
-| November 02 | []() |  |  |
+| November 02 | [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | Medium | Solved |
 | November 03 | []() |  |  |
 | November 04 | []() |  |  |
 | November 05 | []() |  |  |
@@ -42,5 +42,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 00 | 00 | 00 |
-| Medium | 01 | 01 | 00 |
+| Medium | 02 | 02 | 00 |
 | Hard   | 00 | 00 | 00 |
