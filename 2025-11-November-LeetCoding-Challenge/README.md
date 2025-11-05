@@ -8,7 +8,7 @@
 | November 02 | [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | Medium | Solved |
 | November 03 | [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | Medium | Solved |
 | November 04 | [3318. Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | Easy | Solved |
-| November 05 | []() |  |  |
+| November 05 | [3321. Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) | Hard | Solved |
 | November 06 | []() |  |  |
 | November 07 | []() |  |  |
 | November 08 | []() |  |  |
@@ -43,4 +43,4 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 01 | 01 | 00 |
 | Medium | 03 | 03 | 00 |
-| Hard   | 00 | 00 | 00 |
+| Hard   | 01 | 01 | 00 |
