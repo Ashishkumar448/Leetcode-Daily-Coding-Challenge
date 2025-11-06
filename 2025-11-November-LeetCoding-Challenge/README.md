@@ -9,7 +9,7 @@
 | November 03 | [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | Medium | Solved |
 | November 04 | [3318. Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | Easy | Solved |
 | November 05 | [3321. Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) | Hard | Solved |
-| November 06 | []() |  |  |
+| November 06 | [3607. Power Grid Maintenance](https://leetcode.com/problems/power-grid-maintenance/) | Medium | Solved |
 | November 07 | []() |  |  |
 | November 08 | []() |  |  |
 | November 09 | []() |  |  |
@@ -42,5 +42,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 01 | 01 | 00 |
-| Medium | 03 | 03 | 00 |
+| Medium | 04 | 04 | 00 |
 | Hard   | 01 | 01 | 00 |
