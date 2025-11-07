@@ -10,7 +10,7 @@
 | November 04 | [3318. Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | Easy | Solved |
 | November 05 | [3321. Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) | Hard | Solved |
 | November 06 | [3607. Power Grid Maintenance](https://leetcode.com/problems/power-grid-maintenance/) | Medium | Solved |
-| November 07 | []() |  |  |
+| November 07 | [2528. Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/) | Hard | Solved |
 | November 08 | []() |  |  |
 | November 09 | []() |  |  |
 | November 10 | []() |  |  |
@@ -43,4 +43,4 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 01 | 01 | 00 |
 | Medium | 04 | 04 | 00 |
-| Hard   | 01 | 01 | 00 |
+| Hard   | 02 | 02 | 00 |
