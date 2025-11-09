@@ -12,7 +12,7 @@
 | November 06 | [3607. Power Grid Maintenance](https://leetcode.com/problems/power-grid-maintenance/) | Medium | Solved |
 | November 07 | [2528. Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/) | Hard | Solved |
 | November 08 | [1611. Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | Hard | Solved |
-| November 09 | []() |  |  |
+| November 09 | [2169. Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/) | Easy | Solved |
 | November 10 | []() |  |  |
 | November 11 | []() |  |  |
 | November 12 | []() |  |  |
@@ -41,6 +41,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 01 | 01 | 00 |
+| Easy   | 02 | 02 | 00 |
 | Medium | 04 | 04 | 00 |
 | Hard   | 03 | 03 | 00 |
