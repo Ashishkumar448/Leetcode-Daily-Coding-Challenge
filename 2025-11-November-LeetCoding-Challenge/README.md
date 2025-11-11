@@ -14,7 +14,7 @@
 | November 08 | [1611. Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | Hard | Solved |
 | November 09 | [2169. Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/) | Easy | Solved |
 | November 10 | [3542. Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/) | Medium | Solved |
-| November 11 | []() |  |  |
+| November 11 | [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | Medium | Solved |
 | November 12 | []() |  |  |
 | November 13 | []() |  |  |
 | November 14 | []() |  |  |
@@ -42,5 +42,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 05 | 05 | 00 |
+| Medium | 06 | 06 | 00 |
 | Hard   | 03 | 03 | 00 |
