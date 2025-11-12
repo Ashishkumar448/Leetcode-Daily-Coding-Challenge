@@ -15,7 +15,7 @@
 | November 09 | [2169. Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/) | Easy | Solved |
 | November 10 | [3542. Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/) | Medium | Solved |
 | November 11 | [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | Medium | Solved |
-| November 12 | []() |  |  |
+| November 12 | [2654. Minimum Number of Operations to Make All Array Elements Equal to 1](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium | Solved |
 | November 13 | []() |  |  |
 | November 14 | []() |  |  |
 | November 15 | []() |  |  |
@@ -42,5 +42,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 06 | 06 | 00 |
+| Medium | 07 | 07 | 00 |
 | Hard   | 03 | 03 | 00 |
