@@ -16,7 +16,7 @@
 | November 10 | [3542. Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/) | Medium | Solved |
 | November 11 | [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | Medium | Solved |
 | November 12 | [2654. Minimum Number of Operations to Make All Array Elements Equal to 1](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium | Solved |
-| November 13 | []() |  |  |
+| November 13 | [3228. Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/) | Medium | Solved |
 | November 14 | []() |  |  |
 | November 15 | []() |  |  |
 | November 16 | []() |  |  |
@@ -42,5 +42,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 07 | 07 | 00 |
+| Medium | 08 | 08 | 00 |
 | Hard   | 03 | 03 | 00 |
