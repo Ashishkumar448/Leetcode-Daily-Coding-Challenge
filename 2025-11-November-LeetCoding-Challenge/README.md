@@ -20,7 +20,7 @@
 | November 14 | [2536. Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/) | Medium | Solved |
 | November 15 | [3234. Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) | Medium | Solved |
 | November 16 | [1513. Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | Medium | Solved |
-| November 17 | []() |  |  |
+| November 17 | [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | Easy | Solved |
 | November 18 | []() |  |  |
 | November 19 | []() |  |  |
 | November 20 | []() |  |  |
@@ -41,6 +41,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 02 | 02 | 00 |
+| Easy   | 03 | 03 | 00 |
 | Medium | 11 | 11| 00 |
 | Hard   | 03 | 03 | 00 |
