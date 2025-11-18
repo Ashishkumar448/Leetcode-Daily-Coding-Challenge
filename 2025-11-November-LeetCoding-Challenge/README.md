@@ -21,7 +21,7 @@
 | November 15 | [3234. Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) | Medium | Solved |
 | November 16 | [1513. Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | Medium | Solved |
 | November 17 | [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | Easy | Solved |
-| November 18 | []() |  |  |
+| November 18 | [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | Easy | Solved |
 | November 19 | []() |  |  |
 | November 20 | []() |  |  |
 | November 21 | []() |  |  |
@@ -41,6 +41,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 03 | 03 | 00 |
+| Easy   | 04 | 04 | 00 |
 | Medium | 11 | 11| 00 |
 | Hard   | 03 | 03 | 00 |
