@@ -22,7 +22,7 @@
 | November 16 | [1513. Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | Medium | Solved |
 | November 17 | [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | Easy | Solved |
 | November 18 | [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | Easy | Solved |
-| November 19 | []() |  |  |
+| November 19 | [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | Easy | Solved |
 | November 20 | []() |  |  |
 | November 21 | []() |  |  |
 | November 22 | []() |  |  |
@@ -41,6 +41,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 04 | 04 | 00 |
+| Easy   | 05 | 05 | 00 |
 | Medium | 11 | 11| 00 |
 | Hard   | 03 | 03 | 00 |
