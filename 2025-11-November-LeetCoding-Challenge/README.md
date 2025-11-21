@@ -24,7 +24,7 @@
 | November 18 | [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | Easy | Solved |
 | November 19 | [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | Easy | Solved |
 | November 20 | [757. Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) | Hard | Solved |
-| November 21 | []() |  |  |
+| November 21 | [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | Medium | Solved |
 | November 22 | []() |  |  |
 | November 23 | []() |  |  |
 | November 24 | []() |  |  |
@@ -42,5 +42,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 05 | 05 | 00 |
-| Medium | 11 | 11| 00 |
+| Medium | 12 | 12 | 00 |
 | Hard   | 04 | 04 | 00 |
