@@ -27,7 +27,7 @@
 | November 21 | [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | Medium | Solved |
 | November 22 | [3190. Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy | Solved |
 | November 23 | [1262. Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | Medium | Solved |
-| November 24 | []() |  |  |
+| November 24 | [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | Easy | Solved |
 | November 25 | []() |  |  |
 | November 26 | []() |  |  |
 | November 27 | []() |  |  |
@@ -41,6 +41,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 06 | 06 | 00 |
+| Easy   | 07 | 07 | 00 |
 | Medium | 13 | 13 | 00 |
 | Hard   | 04 | 04 | 00 |
