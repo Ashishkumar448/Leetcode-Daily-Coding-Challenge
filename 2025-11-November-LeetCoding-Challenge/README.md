@@ -31,7 +31,7 @@
 | November 25 | [1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | Medium | Solved |
 | November 26 | [2435. Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard | Solved |
 | November 27 | [3381. Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/) | Medium | Solved |
-| November 28 | []() |  |  |
+| November 28 | [2872. Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/) | Hard | Solved |
 | November 29 | []() |  |  |
 | November 30 | []() |  |  |
 
@@ -43,4 +43,4 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 07 | 07 | 00 |
 | Medium | 15 | 15 | 00 |
-| Hard   | 05 | 05 | 00 |
+| Hard   | 06 | 06 | 00 |
