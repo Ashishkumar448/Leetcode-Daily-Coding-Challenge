@@ -4,7 +4,7 @@
 
 | Day | Problem | Level | Status |
 | --- | ------- | ----- | ------ |
-| December 01 | []() |  |  |
+| December 01 | [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | Hard | Solved |
 | December 02 | []() |  |  |
 | December 03 | []() |  |  |
 | December 04 | []() |  |  |
@@ -44,4 +44,4 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 00 | 00 | 00 |
 | Medium | 00 | 00 | 00 |
-| Hard   | 00 | 00 | 00 |
+| Hard   | 01 | 01 | 00 |
