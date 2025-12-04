@@ -7,7 +7,7 @@
 | December 01 | [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | Hard | Solved |
 | December 02 | [3623. Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/) | Medium | Solved |
 | December 03 | [3625. Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/) | Hard | Solved |
-| December 04 | []() |  |  |
+| December 04 | [2211. Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/) | Medium | SOlved |
 | December 05 | []() |  |  |
 | December 06 | []() |  |  |
 | December 07 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 00 | 00 | 00 |
-| Medium | 01 | 01 | 00 |
+| Medium | 02 | 02 | 00 |
 | Hard   | 02 | 02 | 00 |
