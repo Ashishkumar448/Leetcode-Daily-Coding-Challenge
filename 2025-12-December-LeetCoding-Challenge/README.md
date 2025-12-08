@@ -11,7 +11,7 @@
 | December 05 | [3432. Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | Easy | Solved |
 | December 06 | [3578. Count Partitions With Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/) | Medium | Solved |
 | December 07 | [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy | Solved |
-| December 08 | []() |  |  |
+| December 08 | [1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/) | Easy | Solved |
 | December 09 | []() |  |  |
 | December 10 | []() |  |  |
 | December 11 | []() |  |  |
@@ -42,6 +42,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 02 | 02 | 00 |
+| Easy   | 03 | 03 | 00 |
 | Medium | 03 | 03 | 00 |
 | Hard   | 02 | 02 | 00 |
