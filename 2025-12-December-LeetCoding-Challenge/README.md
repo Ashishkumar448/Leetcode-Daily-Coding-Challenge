@@ -14,7 +14,7 @@
 | December 08 | [1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/) | Easy | Solved |
 | December 09 | [3583. Count Special Triplets](https://leetcode.com/problems/count-special-triplets/) | Medium | Solved |
 | December 10 | [3577. Count the Number of Computer Unlocking Permutations](https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/) | Medium | Solved |
-| December 11 | []() |  |  |
+| December 11 | [3531. Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/) | Medium | Solved |
 | December 12 | []() |  |  |
 | December 13 | []() |  |  |
 | December 14 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 03 | 03 | 00 |
-| Medium | 05 | 05 | 00 |
+| Medium | 06 | 06 | 00 |
 | Hard   | 02 | 02 | 00 |
