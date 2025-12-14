@@ -16,8 +16,8 @@
 | December 10 | [3577. Count the Number of Computer Unlocking Permutations](https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/) | Medium | Solved |
 | December 11 | [3531. Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/) | Medium | Solved |
 | December 12 | [3606. Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/) | Easy | Solved |
-| December 13 | [2147. Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | Hard | Solved |
-| December 14 | []() |  |  |
+| December 13 | []() |  |  |
+| December 14 | [2147. Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | Hard | Solved |
 | December 15 | []() |  |  |
 | December 16 | []() |  |  |
 | December 17 | []() |  |  |
