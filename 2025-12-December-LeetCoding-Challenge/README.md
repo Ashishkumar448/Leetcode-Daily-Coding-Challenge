@@ -19,7 +19,7 @@
 | December 13 | []() |  |  |
 | December 14 | [2147. Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | Hard | Solved |
 | December 15 | [2110. Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | Medium | Solved |
-| December 16 | []() |  |  |
+| December 16 | [3562. Maximum Profit from Trading Stocks with Discounts](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/) | Hard | Solved |
 | December 17 | []() |  |  |
 | December 18 | []() |  |  |
 | December 19 | []() |  |  |
@@ -44,4 +44,4 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 04 | 04 | 00 |
 | Medium | 07 | 07 | 00 |
-| Hard   | 03 | 03 | 00 |
+| Hard   | 04 | 04 | 00 |
