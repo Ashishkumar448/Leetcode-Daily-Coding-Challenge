@@ -23,7 +23,7 @@
 | December 17 | [3573. Best Time to Buy and Sell Stock V](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/) | Medium | Solved |
 | December 18 | [3652. Best Time to Buy and Sell Stock using Strategy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/) | Medium | Solved |
 | December 19 | [2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) | Hard | Solved |
-| December 20 | []() |  |  |
+| December 20 | [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Easy | Solved |
 | December 21 | []() |  |  |
 | December 22 | []() |  |  |
 | December 23 | []() |  |  |
@@ -42,6 +42,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 04 | 04 | 00 |
+| Easy   | 05 | 05 | 00 |
 | Medium | 09 | 09 | 00 |
 | Hard   | 05 | 05 | 00 |
