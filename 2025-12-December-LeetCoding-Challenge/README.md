@@ -27,7 +27,7 @@
 | December 21 | [955. Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | Medium | Solved |
 | December 22 | [960. Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | Hard | Solved |
 | December 23 | [2054. Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) | Medium | Solved |
-| December 24 | []() |  |  |
+| December 24 | [3074. Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/) | Easy | Solved |
 | December 25 | []() |  |  |
 | December 26 | []() |  |  |
 | December 27 | []() |  |  |
@@ -42,6 +42,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 05 | 05 | 00 |
+| Easy   | 06 | 06 | 00 |
 | Medium | 11 | 11 | 00 |
 | Hard   | 06 | 06 | 00 |
