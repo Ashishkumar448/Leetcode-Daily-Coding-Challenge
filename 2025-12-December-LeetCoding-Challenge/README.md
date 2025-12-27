@@ -30,7 +30,7 @@
 | December 24 | [3074. Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/) | Easy | Solved |
 | December 25 | [3075. Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/) | Medium | Solved |
 | December 26 | [2483. Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | Medium | Solved |
-| December 27 | []() |  |  |
+| December 27 | [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) | Hard | Solved |
 | December 28 | []() |  |  |
 | December 29 | []() |  |  |
 | December 30 | []() |  |  |
@@ -44,4 +44,4 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 06 | 06 | 00 |
 | Medium | 13 | 13 | 00 |
-| Hard   | 06 | 06 | 00 |
+| Hard   | 07 | 07 | 00 |
