@@ -31,7 +31,7 @@
 | December 25 | [3075. Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/) | Medium | Solved |
 | December 26 | [2483. Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | Medium | Solved |
 | December 27 | [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) | Hard | Solved |
-| December 28 | []() |  |  |
+| December 28 | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Easy | Solved |
 | December 29 | []() |  |  |
 | December 30 | []() |  |  |
 | December 31 | []() |  |  |
@@ -42,6 +42,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 06 | 06 | 00 |
+| Easy   | 07 | 07 | 00 |
 | Medium | 13 | 13 | 00 |
 | Hard   | 07 | 07 | 00 |
