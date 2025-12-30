@@ -33,7 +33,7 @@
 | December 27 | [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) | Hard | Solved |
 | December 28 | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Easy | Solved |
 | December 29 | [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/) | Medium | Solved |
-| December 30 | []() |  |  |
+| December 30 | [840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/) | Medium | Solved |
 | December 31 | []() |  |  |
 
 ---
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 07 | 07 | 00 |
-| Medium | 14 | 14 | 00 |
+| Medium | 15 | 15 | 00 |
 | Hard   | 07 | 07 | 00 |
