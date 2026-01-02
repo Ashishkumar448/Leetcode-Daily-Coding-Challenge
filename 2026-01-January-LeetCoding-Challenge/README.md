@@ -5,7 +5,7 @@
 | Day | Problem | Level | Status |
 | --- | ------- | ----- | ------ |
 | January 01 | [66. Plus One](https://leetcode.com/problems/plus-one/) | Easy | Solved |
-| January 02 | []() |  |  |
+| January 02 | [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | Easy | Solved |
 | January 03 | []() |  |  |
 | January 04 | []() |  |  |
 | January 05 | []() |  |  |
@@ -42,6 +42,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 01 | 01 | 00 |
+| Easy   | 02 | 02 | 00 |
 | Medium | 00 | 00 | 00 |
 | Hard   | 00 | 00 | 00 |
