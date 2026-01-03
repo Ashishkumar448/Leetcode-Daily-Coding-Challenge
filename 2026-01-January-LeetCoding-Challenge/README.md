@@ -6,7 +6,7 @@
 | --- | ------- | ----- | ------ |
 | January 01 | [66. Plus One](https://leetcode.com/problems/plus-one/) | Easy | Solved |
 | January 02 | [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | Easy | Solved |
-| January 03 | []() |  |  |
+| January 03 | [1411. Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | Hard | Solved |
 | January 04 | []() |  |  |
 | January 05 | []() |  |  |
 | January 06 | []() |  |  |
@@ -44,4 +44,4 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 02 | 02 | 00 |
 | Medium | 00 | 00 | 00 |
-| Hard   | 00 | 00 | 00 |
+| Hard   | 01 | 01 | 00 |
