@@ -9,7 +9,7 @@
 | January 03 | [1411. Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | Hard | Solved |
 | January 04 | [1390. Four Divisors](https://leetcode.com/problems/four-divisors/) | Medium | Solved |
 | January 05 | [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | Medium | Solved |
-| January 06 | []() |  |  |
+| January 06 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Medium | Solved |
 | January 07 | []() |  |  |
 | January 08 | []() |  |  |
 | January 09 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 02 | 02 | 00 |
+| Medium | 03 | 03 | 00 |
 | Hard   | 01 | 01 | 00 |
