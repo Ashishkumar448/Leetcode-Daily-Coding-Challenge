@@ -10,7 +10,7 @@
 | January 04 | [1390. Four Divisors](https://leetcode.com/problems/four-divisors/) | Medium | Solved |
 | January 05 | [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | Medium | Solved |
 | January 06 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Medium | Solved |
-| January 07 | []() |  |  |
+| January 07 | [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | Medium | Solved |
 | January 08 | []() |  |  |
 | January 09 | []() |  |  |
 | January 10 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 03 | 03 | 00 |
+| Medium | 04 | 04 | 00 |
 | Hard   | 01 | 01 | 00 |
