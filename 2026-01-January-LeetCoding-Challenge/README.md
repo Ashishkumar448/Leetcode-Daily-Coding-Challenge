@@ -11,7 +11,7 @@
 | January 05 | [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | Medium | Solved |
 | January 06 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Medium | Solved |
 | January 07 | [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | Medium | Solved |
-| January 08 | []() |  |  |
+| January 08 | [1458. Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | Hard | Solved |
 | January 09 | []() |  |  |
 | January 10 | []() |  |  |
 | January 11 | []() |  |  |
@@ -44,4 +44,4 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 02 | 02 | 00 |
 | Medium | 04 | 04 | 00 |
-| Hard   | 01 | 01 | 00 |
+| Hard   | 02 | 02 | 00 |
