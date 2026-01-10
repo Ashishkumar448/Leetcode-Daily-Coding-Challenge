@@ -13,7 +13,7 @@
 | January 07 | [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | Medium | Solved |
 | January 08 | [1458. Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | Hard | Solved |
 | January 09 | [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | Medium | Solved |
-| January 10 | []() |  |  |
+| January 10 | [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Medium | Solved |
 | January 11 | []() |  |  |
 | January 12 | []() |  |  |
 | January 13 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 05 | 05 | 00 |
+| Medium | 06 | 06 | 00 |
 | Hard   | 02 | 02 | 00 |
