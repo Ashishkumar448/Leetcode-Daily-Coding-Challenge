@@ -14,7 +14,7 @@
 | January 08 | [1458. Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | Hard | Solved |
 | January 09 | [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | Medium | Solved |
 | January 10 | [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Medium | Solved |
-| January 11 | []() |  |  |
+| January 11 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Solved |
 | January 12 | []() |  |  |
 | January 13 | []() |  |  |
 | January 14 | []() |  |  |
@@ -44,4 +44,4 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 02 | 02 | 00 |
 | Medium | 06 | 06 | 00 |
-| Hard   | 02 | 02 | 00 |
+| Hard   | 03 | 03 | 00 |
