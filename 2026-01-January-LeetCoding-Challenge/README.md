@@ -15,7 +15,7 @@
 | January 09 | [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | Medium | Solved |
 | January 10 | [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Medium | Solved |
 | January 11 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Solved |
-| January 12 | []() |  |  |
+| January 12 | [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | Easy | Solved |
 | January 13 | []() |  |  |
 | January 14 | []() |  |  |
 | January 15 | []() |  |  |
@@ -42,6 +42,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 02 | 02 | 00 |
+| Easy   | 03 | 03 | 00 |
 | Medium | 06 | 06 | 00 |
 | Hard   | 03 | 03 | 00 |
