@@ -16,7 +16,7 @@
 | January 10 | [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Medium | Solved |
 | January 11 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Solved |
 | January 12 | [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | Easy | Solved |
-| January 13 | []() |  |  |
+| January 13 | [3453. Separate Squares I](https://leetcode.com/problems/separate-squares-i/) | Medium | Solved |
 | January 14 | []() |  |  |
 | January 15 | []() |  |  |
 | January 16 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 03 | 03 | 00 |
-| Medium | 06 | 06 | 00 |
+| Medium | 07 | 07 | 00 |
 | Hard   | 03 | 03 | 00 |
