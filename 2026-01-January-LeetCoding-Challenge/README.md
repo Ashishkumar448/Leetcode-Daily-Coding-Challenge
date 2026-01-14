@@ -17,7 +17,7 @@
 | January 11 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Solved |
 | January 12 | [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | Easy | Solved |
 | January 13 | [3453. Separate Squares I](https://leetcode.com/problems/separate-squares-i/) | Medium | Solved |
-| January 14 | []() |  |  |
+| January 14 | [3454. Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) | Hard | Solved |
 | January 15 | []() |  |  |
 | January 16 | []() |  |  |
 | January 17 | []() |  |  |
@@ -44,4 +44,4 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 03 | 03 | 00 |
 | Medium | 07 | 07 | 00 |
-| Hard   | 03 | 03 | 00 |
+| Hard   | 04 | 04 | 00 |
