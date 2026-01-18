@@ -20,7 +20,7 @@
 | January 14 | [3454. Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) | Hard | Solved |
 | January 15 | [2943. Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | Medium | Solved |
 | January 16 | [3047. Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/) | Medium | Solved |
-| January 17 | []() |  |  |
+| January 17 | [1895. Largest Magic Square](https://leetcode.com/problems/largest-magic-square/) | Medium | Solved |
 | January 18 | []() |  |  |
 | January 19 | []() |  |  |
 | January 20 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 03 | 03 | 00 |
-| Medium | 09 | 09 | 00 |
+| Medium | 10 | 10 | 00 |
 | Hard   | 04 | 04 | 00 |
