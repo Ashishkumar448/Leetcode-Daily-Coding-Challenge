@@ -23,7 +23,7 @@
 | January 17 | [1895. Largest Magic Square](https://leetcode.com/problems/largest-magic-square/) | Medium | Solved |
 | January 18 | []() |  |  |
 | January 19 | [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium | Solution |
-| January 20 | []() |  |  |
+| January 20 | [3314. Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | Easy | Solved |
 | January 21 | []() |  |  |
 | January 22 | []() |  |  |
 | January 23 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 03 | 03 | 00 |
-| Medium | 11 | 11 | 00 |
+| Medium | 12 | 12 | 00 |
 | Hard   | 04 | 04 | 00 |
