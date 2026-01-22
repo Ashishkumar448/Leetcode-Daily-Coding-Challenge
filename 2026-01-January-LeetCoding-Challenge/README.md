@@ -25,7 +25,7 @@
 | January 19 | [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium | Solution |
 | January 20 | [3314. Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | Easy | Solved |
 | January 21 | []() |  |  |
-| January 22 | []() |  |  |
+| January 22 | [3507. Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | Easy | Solved |
 | January 23 | []() |  |  |
 | January 24 | []() |  |  |
 | January 25 | []() |  |  |
