@@ -28,7 +28,7 @@
 | January 22 | [3507. Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | Easy | Solved |
 | January 23 | [3510. Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/) | Hard | Solved |
 | January 24 | [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | Medium | Solved |
-| January 25 | []() |  |  |
+| January 25 | [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy | Solved |
 | January 26 | []() |  |  |
 | January 27 | []() |  |  |
 | January 28 | []() |  |  |
@@ -42,6 +42,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 04 | 04 | 00 |
+| Easy   | 05 | 05 | 00 |
 | Medium | 14 | 14 | 00 |
 | Hard   | 05 | 05 | 00 |
