@@ -31,7 +31,7 @@
 | January 25 | [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy | Solved |
 | January 26 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | Easy | Solved |
 | January 27 | [3650. Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/) | Medium | Solved |
-| January 28 | []() |  |  |
+| January 28 | [3651. Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations/) | Hard | Solved |
 | January 29 | []() |  |  |
 | January 30 | []() |  |  |
 | January 31 | []() |  |  |
@@ -44,4 +44,4 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 06 | 06 | 00 |
 | Medium | 15 | 15 | 00 |
-| Hard   | 05 | 05 | 00 |
+| Hard   | 06 | 06 | 00 |
