@@ -33,7 +33,7 @@
 | January 27 | [3650. Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/) | Medium | Solved |
 | January 28 | [3651. Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations/) | Hard | Solved |
 | January 29 | [2976. Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | Medium | Solved |
-| January 30 | []() |  |  |
+| January 30 | [2977. Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/) | Hard | Solved |
 | January 31 | []() |  |  |
 
 ---
@@ -44,4 +44,4 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 06 | 06 | 00 |
 | Medium | 16 | 16 | 00 |
-| Hard   | 06 | 06 | 00 |
+| Hard   | 07 | 07 | 00 |
