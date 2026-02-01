@@ -4,7 +4,7 @@
 
 | Day | Problem | Level | Status |
 | --- | ------- | ----- | ------ |
-| February 01 | []() |  |  |
+| February 01 | [3010. Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy | Solved |
 | February 02 | []() |  |  |
 | February 03 | []() |  |  |
 | February 04 | []() |  |  |
@@ -39,7 +39,7 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 00 | 00 | 00 |
+| Easy   | 01 | 01 | 00 |
 | Medium | 00 | 00 | 00 |
 | Hard   | 00 | 00 | 00 |
 
