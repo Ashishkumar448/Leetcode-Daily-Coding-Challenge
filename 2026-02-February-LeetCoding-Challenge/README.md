@@ -6,7 +6,7 @@
 | --- | ------- | ----- | ------ |
 | February 01 | [3010. Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy | Solved |
 | February 02 | [3013. Divide an Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) | Hard | Solved |
-| February 03 | []() |  |  |
+| February 03 | [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/) | Easy | Solved |
 | February 04 | []() |  |  |
 | February 05 | []() |  |  |
 | February 06 | []() |  |  |
@@ -39,7 +39,7 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 01 | 01 | 00 |
+| Easy   | 02 | 02 | 00 |
 | Medium | 00 | 00 | 00 |
 | Hard   | 01 | 01 | 00 |
 
