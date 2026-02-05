@@ -8,7 +8,7 @@
 | February 02 | [3013. Divide an Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) | Hard | Solved |
 | February 03 | [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/) | Easy | Solved |
 | February 04 | [3640. Trionic Array II](https://leetcode.com/problems/trionic-array-ii/) | Hard | Solved |
-| February 05 | []() |  |  |
+| February 05 | [3379. Transformed Array](https://leetcode.com/problems/transformed-array/) | Easy | Solved |
 | February 06 | []() |  |  |
 | February 07 | []() |  |  |
 | February 08 | []() |  |  |
@@ -39,7 +39,7 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 02 | 02 | 00 |
+| Easy   | 03 | 03 | 00 |
 | Medium | 00 | 00 | 00 |
 | Hard   | 02 | 02 | 00 |
 
