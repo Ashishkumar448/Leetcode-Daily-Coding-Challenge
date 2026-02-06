@@ -9,7 +9,7 @@
 | February 03 | [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/) | Easy | Solved |
 | February 04 | [3640. Trionic Array II](https://leetcode.com/problems/trionic-array-ii/) | Hard | Solved |
 | February 05 | [3379. Transformed Array](https://leetcode.com/problems/transformed-array/) | Easy | Solved |
-| February 06 | []() |  |  |
+| February 06 | [3634. Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/) | Medium | Solved |
 | February 07 | []() |  |  |
 | February 08 | []() |  |  |
 | February 09 | []() |  |  |
@@ -40,6 +40,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 03 | 03 | 00 |
-| Medium | 00 | 00 | 00 |
+| Medium | 01 | 01 | 00 |
 | Hard   | 02 | 02 | 00 |
 
