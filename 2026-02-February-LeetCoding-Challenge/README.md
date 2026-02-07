@@ -10,7 +10,7 @@
 | February 04 | [3640. Trionic Array II](https://leetcode.com/problems/trionic-array-ii/) | Hard | Solved |
 | February 05 | [3379. Transformed Array](https://leetcode.com/problems/transformed-array/) | Easy | Solved |
 | February 06 | [3634. Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/) | Medium | Solved |
-| February 07 | []() |  |  |
+| February 07 | [1653. Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | Medium | Solved |
 | February 08 | []() |  |  |
 | February 09 | []() |  |  |
 | February 10 | []() |  |  |
