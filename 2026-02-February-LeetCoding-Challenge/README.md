@@ -11,7 +11,7 @@
 | February 05 | [3379. Transformed Array](https://leetcode.com/problems/transformed-array/) | Easy | Solved |
 | February 06 | [3634. Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/) | Medium | Solved |
 | February 07 | [1653. Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | Medium | Solved |
-| February 08 | []() |  |  |
+| February 08 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Solved |
 | February 09 | []() |  |  |
 | February 10 | []() |  |  |
 | February 11 | []() |  |  |
@@ -39,7 +39,7 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 03 | 03 | 00 |
-| Medium | 01 | 01 | 00 |
+| Easy   | 04 | 04 | 00 |
+| Medium | 02 | 02 | 00 |
 | Hard   | 02 | 02 | 00 |
 
