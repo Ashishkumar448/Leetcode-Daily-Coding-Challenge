@@ -12,7 +12,7 @@
 | February 06 | [3634. Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/) | Medium | Solved |
 | February 07 | [1653. Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | Medium | Solved |
 | February 08 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Solved |
-| February 09 | []() |  |  |
+| February 09 | [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | Medium | Solved |
 | February 10 | []() |  |  |
 | February 11 | []() |  |  |
 | February 12 | []() |  |  |
@@ -40,6 +40,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 04 | 04 | 00 |
-| Medium | 02 | 02 | 00 |
+| Medium | 03 | 03 | 00 |
 | Hard   | 02 | 02 | 00 |
 
