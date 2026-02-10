@@ -13,7 +13,7 @@
 | February 07 | [1653. Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | Medium | Solved |
 | February 08 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Solved |
 | February 09 | [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | Medium | Solved |
-| February 10 | []() |  |  |
+| February 10 | [3719. Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/) | Medium | Solved |
 | February 11 | []() |  |  |
 | February 12 | []() |  |  |
 | February 13 | []() |  |  |
@@ -40,6 +40,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 04 | 04 | 00 |
-| Medium | 03 | 03 | 00 |
+| Medium | 04 | 04 | 00 |
 | Hard   | 02 | 02 | 00 |
 
