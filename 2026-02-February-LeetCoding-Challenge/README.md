@@ -14,7 +14,7 @@
 | February 08 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Solved |
 | February 09 | [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | Medium | Solved |
 | February 10 | [3719. Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/) | Medium | Solved |
-| February 11 | []() |  |  |
+| February 11 | [3721. Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/) | Hard | Solved |
 | February 12 | [3713. Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) | Medium | Solved |
 | February 13 | []() |  |  |
 | February 14 | []() |  |  |
@@ -41,5 +41,5 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 04 | 04 | 00 |
 | Medium | 05 | 05 | 00 |
-| Hard   | 02 | 02 | 00 |
+| Hard   | 03 | 03 | 00 |
 
