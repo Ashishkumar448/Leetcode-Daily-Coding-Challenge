@@ -17,7 +17,7 @@
 | February 11 | [3721. Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/) | Hard | Solved |
 | February 12 | [3713. Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) | Medium | Solved |
 | February 13 | [3714. Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | Medium | Solved |
-| February 14 | []() |  |  |
+| February 14 | [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/) | Medium | Solved |
 | February 15 | []() |  |  |
 | February 16 | []() |  |  |
 | February 17 | []() |  |  |
@@ -40,6 +40,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 04 | 04 | 00 |
-| Medium | 06 | 06 | 00 |
+| Medium | 07 | 07 | 00 |
 | Hard   | 03 | 03 | 00 |
 
