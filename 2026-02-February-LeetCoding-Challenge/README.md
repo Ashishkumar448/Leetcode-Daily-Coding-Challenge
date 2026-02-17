@@ -19,7 +19,7 @@
 | February 13 | [3714. Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | Medium | Solved |
 | February 14 | [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/) | Medium | Solved |
 | February 15 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | Easy | Solved |
-| February 16 | []() |  |  |
+| February 16 | [401. Binary Watch](https://leetcode.com/problems/binary-watch/) | Easy | Solved |
 | February 17 | []() |  |  |
 | February 18 | []() |  |  |
 | February 19 | []() |  |  |
@@ -39,7 +39,7 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 05 | 05 | 00 |
+| Easy   | 06 | 06 | 00 |
 | Medium | 07 | 07 | 00 |
 | Hard   | 03 | 03 | 00 |
 
