@@ -22,7 +22,7 @@
 | February 16 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | Solved |
 | February 17 | [401. Binary Watch](https://leetcode.com/problems/binary-watch/) | Easy | Solved |
 | February 18 | [693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | Easy | Solved |
-| February 19 | []() |  |  |
+| February 19 | [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | Easy | Solved |
 | February 20 | []() |  |  |
 | February 21 | []() |  |  |
 | February 22 | []() |  |  |
@@ -39,7 +39,7 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 08 | 08 | 00 |
+| Easy   | 09 | 09 | 00 |
 | Medium | 07 | 07 | 00 |
 | Hard   | 03 | 03 | 00 |
 
