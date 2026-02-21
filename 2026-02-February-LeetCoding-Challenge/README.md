@@ -24,7 +24,7 @@
 | February 18 | [693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | Easy | Solved |
 | February 19 | [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | Easy | Solved |
 | February 20 | [761. Special Binary String](https://leetcode.com/problems/special-binary-string/) | Hard | Solved |
-| February 21 | []() |  |  |
+| February 21 | [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | Easy | Solved |
 | February 22 | []() |  |  |
 | February 23 | []() |  |  |
 | February 24 | []() |  |  |
@@ -39,7 +39,7 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 09 | 09 | 00 |
+| Easy   | 010 | 10 | 00 |
 | Medium | 07 | 07 | 00 |
 | Hard   | 04 | 04 | 00 |
 
