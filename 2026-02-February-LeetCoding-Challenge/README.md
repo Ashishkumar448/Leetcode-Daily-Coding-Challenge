@@ -26,7 +26,7 @@
 | February 20 | [761. Special Binary String](https://leetcode.com/problems/special-binary-string/) | Hard | Solved |
 | February 21 | [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | Easy | Solved |
 | February 22 | [868. Binary Gap](https://leetcode.com/problems/binary-gap/) | Easy | Solved |
-| February 23 | []() |  |  |
+| February 23 | [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium | Solved |
 | February 24 | []() |  |  |
 | February 25 | []() |  |  |
 | February 26 | []() |  |  |
@@ -40,6 +40,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 11 | 11 | 00 |
-| Medium | 07 | 07 | 00 |
+| Medium | 08 | 08 | 00 |
 | Hard   | 04 | 04 | 00 |
 
