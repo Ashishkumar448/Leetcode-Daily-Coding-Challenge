@@ -31,7 +31,7 @@
 | February 25 | [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | Easy | Solved |
 | February 26 | [3666. Minimum Operations to Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/) | Hard | Solved |
 | February 27 | []() |  |  |
-| February 28 | []() |  |  |
+| February 28 | [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | Medium | Solved |
 
 ---
 
@@ -40,6 +40,6 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 13 | 13 | 00 |
-| Medium | 08 | 08 | 00 |
+| Medium | 09 | 09 | 00 |
 | Hard   | 05 | 05 | 00 |
 
