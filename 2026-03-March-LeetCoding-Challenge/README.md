@@ -4,7 +4,7 @@
 
 | Day | Problem | Level | Status |
 | --- | ------- | ----- | ------ |
-| March 01 | []() |  |  |
+| March 01 | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium | Solved |
 | March 02 | []() |  |  |
 | March 03 | []() |  |  |
 | March 04 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 00 | 00 | 00 |
-| Medium | 00 | 00 | 00 |
+| Medium | 01 | 01 | 00 |
 | Hard   | 00 | 00 | 00 |
