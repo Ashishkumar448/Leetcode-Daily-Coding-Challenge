@@ -5,7 +5,7 @@
 | Day | Problem | Level | Status |
 | --- | ------- | ----- | ------ |
 | March 01 | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium | Solved |
-| March 02 | []() |  |  |
+| March 02 | [1536. Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/) | Medium | Solved |
 | March 03 | []() |  |  |
 | March 04 | []() |  |  |
 | March 05 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 00 | 00 | 00 |
-| Medium | 01 | 01 | 00 |
+| Medium | 02 | 02 | 00 |
 | Hard   | 00 | 00 | 00 |
