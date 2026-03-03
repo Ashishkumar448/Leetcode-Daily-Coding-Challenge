@@ -6,7 +6,7 @@
 | --- | ------- | ----- | ------ |
 | March 01 | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium | Solved |
 | March 02 | [1536. Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/) | Medium | Solved |
-| March 03 | []() |  |  |
+| March 03 | [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | Medium | Solved |
 | March 04 | []() |  |  |
 | March 05 | []() |  |  |
 | March 06 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 00 | 00 | 00 |
-| Medium | 02 | 02 | 00 |
+| Medium | 03 | 03 | 00 |
 | Hard   | 00 | 00 | 00 |
