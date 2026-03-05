@@ -8,7 +8,7 @@
 | March 02 | [1536. Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/) | Medium | Solved |
 | March 03 | [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | Medium | Solved |
 | March 04 | [1582. Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | Easy | Solved |
-| March 05 | []() |  |  |
+| March 05 | [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | Easy | Solved |
 | March 06 | []() |  |  |
 | March 07 | []() |  |  |
 | March 08 | []() |  |  |
@@ -42,6 +42,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 01 | 01 | 00 |
+| Easy   | 02 | 02 | 00 |
 | Medium | 03 | 03 | 00 |
 | Hard   | 00 | 00 | 00 |
