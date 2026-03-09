@@ -12,7 +12,7 @@
 | March 06 | []() |  |  |
 | March 07 | [1888. Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium | Solved |
 | March 08 | [1980. Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | Medium | Solved |
-| March 09 | []() |  |  |
+| March 09 | [3129. Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/) | Medium | Solved |
 | March 10 | []() |  |  |
 | March 11 | []() |  |  |
 | March 12 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 02 | 02 | 00 |
-| Medium | 05 | 05 | 00 |
+| Medium | 06 | 06 | 00 |
 | Hard   | 00 | 00 | 00 |
