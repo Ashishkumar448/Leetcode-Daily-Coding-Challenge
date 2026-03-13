@@ -15,8 +15,8 @@
 | March 09 | [3129. Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/) | Medium | Solved |
 | March 10 | [3130. Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/) | Hard | Solved |
 | March 11 | [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | Easy | Solved |
-| March 12 | [3296. Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium | Solved |
-| March 13 | []() |  |  |
+| March 12 | []() |  |  |
+| March 13 | [3296. Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium | Solved |
 | March 14 | []() |  |  |
 | March 15 | []() |  |  |
 | March 16 | []() |  |  |
