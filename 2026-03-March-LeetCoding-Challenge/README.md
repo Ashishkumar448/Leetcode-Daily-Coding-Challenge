@@ -18,7 +18,7 @@
 | March 12 | []() |  |  |
 | March 13 | [3296. Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium | Solved |
 | March 14 | [1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | Solved |
-| March 15 | []() |  |  |
+| March 15 | [1622. Fancy Sequence](https://leetcode.com/problems/fancy-sequence/) | Hard | Solved |
 | March 16 | []() |  |  |
 | March 17 | []() |  |  |
 | March 18 | []() |  |  |
@@ -44,4 +44,4 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 03 | 03 | 00 |
 | Medium | 08 | 08 | 00 |
-| Hard   | 01 | 01 | 00 |
+| Hard   | 02 | 02 | 00 |
