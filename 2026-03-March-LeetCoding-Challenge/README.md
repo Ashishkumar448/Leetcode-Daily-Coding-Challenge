@@ -19,7 +19,7 @@
 | March 13 | [3296. Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium | Solved |
 | March 14 | [1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | Solved |
 | March 15 | [1622. Fancy Sequence](https://leetcode.com/problems/fancy-sequence/) | Hard | Solved |
-| March 16 | []() |  |  |
+| March 16 | [1878. Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | Medium | Solved |
 | March 17 | []() |  |  |
 | March 18 | []() |  |  |
 | March 19 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 03 | 03 | 00 |
-| Medium | 08 | 08 | 00 |
+| Medium | 09 | 09 | 00 |
 | Hard   | 02 | 02 | 00 |
