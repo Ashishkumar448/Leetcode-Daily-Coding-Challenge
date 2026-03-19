@@ -20,7 +20,7 @@
 | March 14 | [1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | Solved |
 | March 15 | [1622. Fancy Sequence](https://leetcode.com/problems/fancy-sequence/) | Hard | Solved |
 | March 16 | [1878. Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | Medium | Solved |
-| March 17 | []() |  |  |
+| March 17 | [1727. Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | Medium | Solved |
 | March 18 | [3070. Count Submatrices with Top-Left Element and Sum Less Than k](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium | Solved |
 | March 19 | [3212. Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/) | Medium | Solved |
 | March 20 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 03 | 03 | 00 |
-| Medium | 10 | 10 | 00 |
+| Medium | 12 | 12 | 00 |
 | Hard   | 02 | 02 | 00 |
