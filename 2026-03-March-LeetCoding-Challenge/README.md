@@ -22,7 +22,7 @@
 | March 16 | [1878. Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | Medium | Solved |
 | March 17 | []() |  |  |
 | March 18 | []() |  |  |
-| March 19 | []() |  |  |
+| March 19 | [3212. Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/) | Medium | Solved |
 | March 20 | []() |  |  |
 | March 21 | []() |  |  |
 | March 22 | []() |  |  |
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 03 | 03 | 00 |
-| Medium | 09 | 09 | 00 |
+| Medium | 10 | 10 | 00 |
 | Hard   | 02 | 02 | 00 |
