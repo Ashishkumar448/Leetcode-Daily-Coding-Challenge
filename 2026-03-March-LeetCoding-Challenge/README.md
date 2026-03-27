@@ -29,7 +29,7 @@
 | March 23 | [1594. Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | Medium | Solved |
 | March 24 | [2906. Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/) | Medium | Solved |
 | March 25 | [3546. Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) | Medium | Solved |
-| March 26 | []() |  |  |
+| March 26 | [2946. Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) | Easy | Solved |
 | March 27 | []() |  |  |
 | March 28 | []() |  |  |
 | March 29 | []() |  |  |
@@ -42,6 +42,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 04 | 04 | 00 |
+| Easy   | 05 | 05 | 00 |
 | Medium | 17 | 17 | 00 |
 | Hard   | 02 | 02 | 00 |
