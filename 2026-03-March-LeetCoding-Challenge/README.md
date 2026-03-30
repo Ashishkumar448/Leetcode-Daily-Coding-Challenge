@@ -33,7 +33,7 @@
 | March 27 | [2839. Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) | Easy | Solved |
 | March 28 | []() |  |  |
 | March 29 | []() |  |  |
-| March 30 | []() |  |  |
+| March 30 | [2840. Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/) | Medium | Solved |
 | March 31 | []() |  |  |
 
 ---
@@ -43,5 +43,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 05 | 05 | 00 |
-| Medium | 17 | 17 | 00 |
+| Medium | 18 | 18 | 00 |
 | Hard   | 02 | 02 | 00 |
