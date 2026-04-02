@@ -5,7 +5,7 @@
 | Day | Problem | Level | Status |
 | --- | ------- | ----- | ------ |
 | April 01 | [2751. Robot Collisions](https://leetcode.com/problems/robot-collisions) | Hard | Solved |
-| April 02 | []() |  |  |
+| April 02 | [3418. Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | Medium | Solved |
 | April 03 | []() |  |  |
 | April 04 | []() |  |  |
 | April 05 | []() |  |  |
@@ -42,5 +42,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 00 | 00 | 00 |
-| Medium | 00 | 00 | 00 |
+| Medium | 01 | 01 | 00 |
 | Hard   | 01 | 01 | 00 |
