@@ -7,7 +7,7 @@
 | April 01 | [2751. Robot Collisions](https://leetcode.com/problems/robot-collisions) | Hard | Solved |
 | April 02 | [3418. Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | Medium | Solved |
 | April 03 | [3661. Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | Hard | Solved |
-| April 04 | []() |  |  |
+| April 04 | [2075. Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | Medium | Solved |
 | April 05 | []() |  |  |
 | April 06 | []() |  |  |
 | April 07 | []() |  |  |
@@ -42,5 +42,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 00 | 00 | 00 |
-| Medium | 01 | 01 | 00 |
+| Medium | 02 | 02 | 00 |
 | Hard   | 02 | 02 | 00 |
