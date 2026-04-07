@@ -10,7 +10,7 @@
 | April 04 | [2075. Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | Medium | Solved |
 | April 05 | []() |  |  |
 | April 06 | []() |  |  |
-| April 07 | []() |  |  |
+| April 07 | [2069. Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/) | Medium | Solved |
 | April 08 | []() |  |  |
 | April 09 | []() |  |  |
 | April 10 | []() |  |  |
@@ -42,5 +42,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 00 | 00 | 00 |
-| Medium | 02 | 02 | 00 |
+| Medium | 03 | 03 | 00 |
 | Hard   | 02 | 02 | 00 |
