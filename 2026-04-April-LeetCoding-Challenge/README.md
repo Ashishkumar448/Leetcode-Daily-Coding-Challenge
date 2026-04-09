@@ -12,7 +12,7 @@
 | April 06 | []() |  |  |
 | April 07 | [2069. Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/) | Medium | Solved |
 | April 08 | [3653. XOR After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) | Medium | Solved |
-| April 09 | []() |  |  |
+| April 09 | [3655. XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/) | Hard | Solved |
 | April 10 | []() |  |  |
 | April 11 | []() |  |  |
 | April 12 | []() |  |  |
@@ -43,4 +43,4 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 00 | 00 | 00 |
 | Medium | 04 | 04 | 00 |
-| Hard   | 02 | 02 | 00 |
+| Hard   | 03 | 03 | 00 |
