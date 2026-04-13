@@ -13,7 +13,7 @@
 | April 07 | [2069. Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/) | Medium | Solved |
 | April 08 | [3653. XOR After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) | Medium | Solved |
 | April 09 | [3655. XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/) | Hard | Solved |
-| April 10 | []() |  |  |
+| April 10 | [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | Easy | Solved |
 | April 11 | []() |  |  |
 | April 12 | []() |  |  |
 | April 13 | []() |  |  |
@@ -41,6 +41,6 @@
 
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
-| Easy   | 00 | 00 | 00 |
+| Easy   | 01 | 01 | 00 |
 | Medium | 04 | 04 | 00 |
 | Hard   | 03 | 03 | 00 |
