@@ -17,7 +17,7 @@
 | April 11 | []() |  |  |
 | April 12 | []() |  |  |
 | April 13 | [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | Easy | Solved |
-| April 14 | []() |  |  |
+| April 14 | [3488. Closest Equal Element Queries](https://leetcode.com/problems/closest-equal-element-queries/) | Medium | Solved |
 | April 15 | []() |  |  |
 | April 16 | []() |  |  |
 | April 17 | []() |  |  |
@@ -42,5 +42,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 01 | 01 | 00 |
-| Medium | 04 | 04 | 00 |
+| Medium | 05 | 05 | 00 |
 | Hard   | 03 | 03 | 00 |
