@@ -20,7 +20,7 @@
 | April 14 | []() |  |  |
 | April 15 | []() |  |  |
 | April 16 | [3488. Closest Equal Element Queries](https://leetcode.com/problems/closest-equal-element-queries/) | Medium | Solved |
-| April 17 | []() |  |  |
+| April 17 | [3761. Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | Medium | Solved |
 | April 18 | []() |  |  |
 | April 19 | []() |  |  |
 | April 20 | []() |  |  |
@@ -42,5 +42,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ------ | -------- | ------ | -------- |
 | Easy   | 01 | 01 | 00 |
-| Medium | 05 | 05 | 00 |
+| Medium | 06 | 06 | 00 |
 | Hard   | 03 | 03 | 00 |
