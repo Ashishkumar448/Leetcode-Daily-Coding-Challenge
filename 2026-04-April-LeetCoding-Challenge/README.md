@@ -28,7 +28,7 @@
 | April 22 | []() |  |  |
 | April 23 | []() |  |  |
 | April 24 | []() |  |  |
-| April 25 | []() |  |  |
+| April 25 | [3464. Maximize the Distance Between Points on a Square](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) | Hard | Solved |
 | April 26 | []() |  |  |
 | April 27 | []() |  |  |
 | April 28 | []() |  |  |
@@ -43,4 +43,4 @@
 | ------ | -------- | ------ | -------- |
 | Easy   | 03 | 03 | 00 |
 | Medium | 08 | 08 | 00 |
-| Hard   | 03 | 03 | 00 |
+| Hard   | 04 | 04 | 00 |
